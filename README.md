@@ -1,17 +1,6 @@
 <div align="center">
 
-# yo, ben AI öğreniyorum 🤖
-
-```ascii
- _____ _____   _                        _             
-|  _  |_   _| | |                      (_)            
-| | | | | |   | | ___  __ _ _ __ _ __  _ _ __   __ _ 
-| | | | | |   | |/ _ \/ _` | '__| '_ \| | '_ \ / _` |
-\ \_/ /_| |_  | |  __/ (_| | |  | | | | | | | | (_| |
- \___/ \___/  |_|\___|\__,_|_|  |_| |_|_|_| |_|\__, |
-                                                 __/ |
-                                                |___/ 
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=yo,+ben+AI+%C3%B6%C4%9Freniyorum+%F0%9F%A4%96;13+ya%C5%9F%C4%B1nday%C4%B1m;Yapay+Zeka+%C3%96%C4%9Freniyorum;Kod+Yazmay%C4%B1+Seviyorum" alt="Typing SVG" />
 
 </div>
 
@@ -73,23 +62,16 @@ while True:
 
 <div align="center">
 
-### 📌 öne çıkan projeler
-
 [![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=REPO_ADI_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/KULLANICI_ADIN/REPO_ADI_1)
 [![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=REPO_ADI_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/KULLANICI_ADIN/REPO_ADI_2)
-[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=REPO_ADI_3&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/KULLANICI_ADIN/REPO_ADI_3)
-[![Repo 4](https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=REPO_ADI_4&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/KULLANICI_ADIN/REPO_ADI_4)
 
 </div>
 
-### 💡 yapacaklarım listesi
-
-- [ ] chatbot yapmak (basit bi şey)
-- [ ] discord botu (arkadaşlarla taşak geçmek için)
-- [ ] bi tane mini oyun belki
-- [ ] youtube için kod snippetleri
-- [ ] AI ile resim yapan tool
-- [ ] kendi websitem
+bazı fikirlerim:
+- chatbot yapmak (basit bi şey)
+- discord botu (arkadaşlarla taşak geçmek için)
+- bi tane mini oyun belki
+- youtube için kod snippetleri
 
 ---
 
@@ -131,45 +113,4 @@ while True:
   </tr>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KULLANICI_ADIN&theme=github_dark" alt="Stats" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KULLANICI_ADIN&theme=github_dark&utcOffset=4" alt="Productive Time" /></td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## contribution snake 🐍
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/KULLANICI_ADIN/KULLANICI_ADIN/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## bana ulaş
-
-youtube'dan yazabilirsin veya email at: **EMAIL_ADRESIN**
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbRYSI8ZHXAZpfIO6qkAipA)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_ADRESIN)
-
-</div>
-
----
-
-<div align="center">
-
-*"her gün biraz kod, biraz bug, biraz öğrenme"* 
-
-![Profile Views](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=58a6ff&style=for-the-badge&label=ziyaretçi)
-![GitHub followers](https://img.shields.io/github/followers/KULLANICI_ADIN?style=for-the-badge&color=58a6ff&labelColor=0d1117)
-![GitHub Stars](https://img.shields.io/github/stars/KULLANICI_ADIN?style=for-the-badge&color=58a6ff&labelColor=0d1117)
-
-son güncelleme: az önce lol
-
-</div>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KULLANICI_ADIN&theme=github_dark&utcOffset
