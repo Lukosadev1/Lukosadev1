@@ -1,116 +1,129 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=yo,+ben+AI+%C3%B6%C4%9Freniyorum+%F0%9F%A4%96;13+ya%C5%9F%C4%B1nday%C4%B1m;Yapay+Zeka+%C3%96%C4%9Freniyorum;Kod+Yazmay%C4%B1+Seviyorum" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=200&section=header&text=AI%20Öğreniyorum%20🤖&fontSize=50&fontColor=fff&animation=twinkling" />
+
+### <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=13+ya%C5%9F%C4%B1nday%C4%B1m+ve+kodluyorum;Python+%2B+AI+%C3%B6%C4%9Freniyorum;Her+g%C3%BCn+yeni+bi+%C5%9Fey+deniyorum" alt="Typing SVG" />
 
 </div>
 
----
+<br>
 
-**13 yaşındayım** ve kodlamayı öğreniyorum çünkü yapay zeka çok sağlam bi konu
+> **yo!** 13 yaşındayım ve yapay zeka öğreniyorum. youtube'da da bu serüveni paylaşıyorum  
+> 📺 kanalım → **[buradan izle](https://www.youtube.com/channel/UCbRYSI8ZHXAZpfIO6qkAipA)**
 
-youtube'da videolar çekiyorum bu konuda → [gel izle](https://www.youtube.com/channel/UCbRYSI8ZHXAZpfIO6qkAipA) 📹
+<br>
 
----
-
-## stats
+## 📊 github stats
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=f85149&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8"/>
 </div>
-
----
-
-## activity graph
 
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff)](https://github.com/KULLANICI_ADIN)
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&dates=8b949e" />
 </div>
 
----
+<br>
 
-## ne yapıyorum şu an
+## 🎯 şu an ne yapıyorum?
 
-basically python öğreniyorum ve chatgpt ile deneyler yapıyorum. bazen işe yarıyor bazen bug fest oluyor lol
+```javascript
+const ben = {
+    yaş: 13,
+    durum: "öğrenci",
+    öğreniyorum: ["Python 🐍", "AI/ML 🤖", "API kullanımı"],
+    yapıyorum: ["ChatGPT projeleri", "Discord botları", "YouTube içerikleri"],
+    hedef: "cool AI projeleri yapmak"
+};
 
-```py
-while True:
-    kod_yaz()
-    hata_al()
-    stackoverflow_bak()
-    tekrar_dene()
-    # infinite loop ama öğreniyoz işte
+// her gün biraz daha ilerliyorum
+while (motivation > 0) {
+    learn();
+    code();
+    share();
+}
 ```
 
----
+<br>
 
-## projelerim
+## 🚀 projeler
+
+<p align="center">
+  <a href="https://github.com/KULLANICI_ADIN/REPO_ADI_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=REPO_ADI_1&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  </a>
+  <a href="https://github.com/KULLANICI_ADIN/REPO_ADI_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=REPO_ADI_2&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  </a>
+</p>
+
+**yapacaklarım:**
+- 🤖 chatbot (openai api ile)
+- 🎮 discord music bot
+- 🎨 AI image generator
+- 📱 basit web uygulamaları
+
+<br>
+
+## 🏆 achievements
 
 <div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=REPO_ADI_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/KULLANICI_ADIN/REPO_ADI_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=REPO_ADI_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9)](https://github.com/KULLANICI_ADIN/REPO_ADI_2)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=KULLANICI_ADIN&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
 </div>
 
-bazı fikirlerim:
-- chatbot yapmak (basit bi şey)
-- discord botu (arkadaşlarla taşak geçmek için)
-- bi tane mini oyun belki
-- youtube için kod snippetleri
+<br>
 
----
-
-## trophy collection
+## 💻 tech stack
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=KULLANICI_ADIN&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-## kullandığım toollar
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 </div>
 
----
+<br>
 
-## github metrics
+## 📈 activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
+</div>
+
+<br>
+
+## 📫 bana ulaş
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KULLANICI_ADIN&theme=github_dark)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbRYSI8ZHXAZpfIO6qkAipA)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_ADRESIN)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KULLANICI_ADIN&theme=github_dark" alt="Repos per Language" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KULLANICI_ADIN&theme=github_dark" alt="Most Commit Language" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KULLANICI_ADIN&theme=github_dark" alt="Stats" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KULLANICI_ADIN&theme=github_dark&utcOffset
+</div>
+
+<br>
+
+<div align="center">
+
+### 💭 random dev quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&style=for-the-badge&color=70a5fd)
+![GitHub Followers](https://img.shields.io/github/followers/KULLANICI_ADIN?style=for-the-badge&color=70a5fd)
+![GitHub Stars](https://img.shields.io/github/stars/KULLANICI_ADIN?style=for-the-badge&color=bf91f3)
+
+**"kod yaz, hata al, öğren, tekrarla"** 🔄
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=120&section=footer" />
