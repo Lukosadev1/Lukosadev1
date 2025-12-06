@@ -1,72 +1,84 @@
 <div align="center">
   
-# 👋 Selam! AI Öğreniyorum
+# 👋 Selam! Ben AI Öğreniyorum
 
-<img src="https://readme-typing-svg.herokuapp.com/font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Yapay+Zeka+%C3%96%C4%9Freniyorum;Her+G%C3%BCn+Yeni+Bir+%C5%9Eeyler+Deniyorum;Kodlama+Serv%C3%BCvenim" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=13+Ya%C5%9F%C4%B1nday%C4%B1m;Yapay+Zeka+%C3%96%C4%9Freniyorum;Kod+Yazmay%C4%B1+Seviyorum" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 Ben Kimim?
+## 🚀 Hakkımda
 
-18 yaşındayım ve yapay zeka dünyasına yeni girdim. Okulda da öğreniyorum ama asıl öğrenim kendi kendime deneyerek oluyor!
+13 yaşındayım ve kodlamayı öğreniyorum! Yapay zeka çok ilgimi çekiyor ve her gün yeni şeyler deniyorum.
 
-🎥 **AI öğrenme sürecimi YouTube'da paylaşıyorum!**  
-Takılmak, öğrendiklerimi görmek istersen:  
-### 👉 [Kanalıma Bak!](https://www.youtube.com/channel/UCbRYSI8ZHXAZpfIO6qkAipA)
+🎥 **YouTube'da öğrenme serüvenimi paylaşıyorum!**  
+Merak ediyorsan gel izle:  
+### 👉 [Kanalım](https://www.youtube.com/channel/UCbRYSI8ZHXAZpfIO6qkAipA) 🔥
 
 ---
 
-## 🛠️ Ne Öğreniyorum?
+## 💻 Şu An Ne Yapıyorum?
 
 ```python
-benim_journey = {
-    "yaş": 17,
-    "durum": "öğrenci & öğrenen",
-    "öğreniyorum": ["Python", "AI basics", "Machine Learning"],
-    "deniyorum": ["ChatGPT API", "basit ML modeller", "veri analizi"],
-    "hedef": "AI ile cool projeler yapmak"
+ben = {
+    "yaş": 13,
+    "öğreniyorum": ["Python", "AI", "Kod yazmak"],
+    "ilgi_alanım": ["Yapay Zeka", "Oyun geliştirme", "Cool projeler"],
+    "hedef": "Havalı şeyler kodlamak"
 }
 ```
 
 ---
 
-## 📊 GitHub'ım
+## 📊 GitHub İstatistiklerim
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd)
 
 </div>
 
 ---
 
-## 🎯 Kısa Vadeli Hedeflerim
+## 🎯 Yapmak İstediklerim
 
-- 🔄 Python'u daha iyi öğrenmek
-- 🔄 Basit AI projeleri yapmak
-- 🔄 YouTube kanalımda düzenli içerik paylaşmak
-- 🔄 GitHub'a kod atmayı alışkanlık haline getirmek
+- 📝 Her gün biraz Python öğrenmek
+- 🤖 ChatGPT ile projeler denemek
+- 🎮 Basit oyunlar kodlamak
+- 📹 YouTube'a video atmak
+- 💡 Eğlenceli AI projeleri yapmak
 
 ---
 
-## 💻 Kullandıklarım
+## 🛠️ Kullandığım Şeyler
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
 </div>
 
 ---
 
-## 📫 Bana Ulaş
+## 📺 YouTube Kanalım
+
+<div align="center">
+
+AI öğrenme yolculuğumu, yaptığım projeleri ve öğrendiklerimi paylaşıyorum!
+
+[![YouTube Channel](https://img.shields.io/badge/Abone_Ol-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbRYSI8ZHXAZpfIO6qkAipA)
+
+</div>
+
+---
+
+## 📫 İletişim
 
 <div align="center">
 
@@ -79,14 +91,16 @@ benim_journey = {
 
 <div align="center">
 
-### 💡 "Yavaş yavaş ama emin adımlarla ilerliyorum 🚀"
+### 💡 "Küçük adımlarla büyük işler! 🚀"
 
-![Profile Views](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=00F7FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&color=70a5fd&style=flat-square)
+
+**⭐ Projelerimi beğendiysen yıldız atmayı unutma!**
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=100&section=footer" width="100%"/>
 </div>
