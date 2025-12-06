@@ -8,7 +8,7 @@
 
 <br>
 
-> **yo!** 13 yaşındayım ve yapay zeka öğreniyorum. youtube'da da bu serüveni paylaşıyorum  
+> **Selammm!** 13 yaşındayım ve yapay zeka öğreniyorum. youtube'da da bu serüveni paylaşıyorum  
 > 📺 kanalım → **[buradan izle](https://www.youtube.com/channel/UCbRYSI8ZHXAZpfIO6qkAipA)**
 
 <br>
@@ -16,12 +16,12 @@
 ## 📊 github stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lukosadev1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukosadev1&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KULLANICI_ADIN&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&dates=8b949e" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lukosadev1&theme=tokyonight&hide_border=true&background=1a1b27&stroke=38bdae&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&dates=8b949e" />
 </div>
 
 <br>
@@ -49,12 +49,34 @@ while (motivation > 0) {
 
 ## 🚀 projeler
 
+<!-- Repo isimlerini buraya yaz -->
+<!-- repo1 = "ilk-repo-ismin" -->
+<!-- repo2 = "ikinci-repo-ismin" -->
+<!-- repo3 = "ucuncu-repo-ismin" -->
+<!-- repo4 = "dorduncu-repo-ismin" -->
+<!-- repo5 = "besinci-repo-ismin" -->
+
 <p align="center">
-  <a href="https://github.com/KULLANICI_ADIN/REPO_ADI_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=REPO_ADI_1&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  <a href="https://github.com/Lukosadev1/repo1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lukosadev1&repo=repo1&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
   </a>
-  <a href="https://github.com/KULLANICI_ADIN/REPO_ADI_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KULLANICI_ADIN&repo=REPO_ADI_2&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  <a href="https://github.com/Lukosadev1/repo2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lukosadev1&repo=repo2&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lukosadev1/repo3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lukosadev1&repo=repo3&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  </a>
+  <a href="https://github.com/Lukosadev1/repo4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lukosadev1&repo=repo4&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Lukosadev1/repo5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lukosadev1&repo=repo5&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" />
   </a>
 </p>
 
@@ -69,7 +91,7 @@ while (motivation > 0) {
 ## 🏆 achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KULLANICI_ADIN&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lukosadev1&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7&title=Stars,Followers,Commits,Repositories,Issues,PullRequest" />
 </div>
 
 <br>
@@ -94,7 +116,7 @@ while (motivation > 0) {
 ## 📈 activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KULLANICI_ADIN&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lukosadev1&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" />
 </div>
 
 <br>
@@ -104,7 +126,7 @@ while (motivation > 0) {
 <div align="center">
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbRYSI8ZHXAZpfIO6qkAipA)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL_ADRESIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huseynovomer955@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 </div>
@@ -118,9 +140,9 @@ while (motivation > 0) {
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=KULLANICI_ADIN&style=for-the-badge&color=70a5fd)
-![GitHub Followers](https://img.shields.io/github/followers/KULLANICI_ADIN?style=for-the-badge&color=70a5fd)
-![GitHub Stars](https://img.shields.io/github/stars/KULLANICI_ADIN?style=for-the-badge&color=bf91f3)
+![Profile Views](https://komarev.com/ghpvc/?username=Lukosadev1&style=for-the-badge&color=70a5fd)
+![GitHub Followers](https://img.shields.io/github/followers/Lukosadev1?style=for-the-badge&color=70a5fd)
+![GitHub Stars](https://img.shields.io/github/stars/Lukosadev1?style=for-the-badge&color=bf91f3)
 
 **"kod yaz, hata al, öğren, tekrarla"** 🔄
 
