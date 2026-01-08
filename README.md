@@ -50,14 +50,21 @@ ne_yapabiliyorum = [
     "Döngüler (öğrenmeye çalışıyorum)"
 ]
 
-# En büyük hayalim
-hedefim = "Kendi yapay zekamı yaratmak! 🤖"
+# En büyük hayallerim
+hedeflerim = [
+    "Kendi yapay zekamı yaratmak! 🤖",
+    "Kendi API'mi yapmak 🔗",
+    "Mobil app geliştirmek 📱",
+    "Web app'leri yapmak 🌐"
+]
 
 # Gerçekten yapmak istediklerim
 isteklerim = [
     "AI geliştirici olmak",
     "Kendi AI'ımı kodlamak",
     "ChatGPT gibi bir şey yapmak",
+    "Kendi API'mi yaratıp paylaşmak",
+    "Kendi mobil uygulamamı yapmak",
     "Machine Learning öğrenmek"
 ]
 
@@ -74,8 +81,11 @@ print("Yeni başladım ama çok hevesliyim! 💪")
 🎓 **13 yaşında** kod öğrenmeye başladım  
 🐣 **Çok yeniyim** - Python'da temel seviye  
 🎥 **YouTube'da** içerik yapmaya çalışıyorum  
-🎯 **Büyük hayalim:** AI Developer olmak  
-🤖 **En büyük hedef:** Kendi AI'ımı yaratmak  
+🎯 **Büyük hayallerim:**
+   - 🤖 AI Developer olmak
+   - 🔗 Kendi API'mi yapmak
+   - 📱 Mobil app geliştirmek
+   - 🌐 Web uygulamaları yapmak  
 ⚡ **Gerçek:** Henüz çok şey bilmiyorum ama öğreniyorum  
 💭 **İnanç:** Herkes bir yerden başladı!  
 🔥 **Motivasyon:** %1000 ama bilgi az 😅  
@@ -112,14 +122,18 @@ Git/GitHub     █░░░░░░░░░   10% (Öğreniyorum)
 graph TB
     A[🎯 ŞU AN<br/>Python Temelleri<br/>print, if-else, döngüler] --> B[📖 Sonraki<br/>Fonksiyonlar<br/>Listeler, Dictionary]
     B --> C[🎮 Hedef 1<br/>Basit Python Projeleri<br/>Hesap makinesi, oyunlar]
-    C --> D[🤖 Hedef 2<br/>AI'ya Giriş<br/>Machine Learning temelleri]
-    D --> E[🏆 BÜYÜK HAYAL<br/>Kendi AI'ımı Yaratmak!]
+    C --> D[🔗 Hedef 2<br/>API Geliştirme<br/>Kendi API'mi yapmak]
+    D --> E[📱 Hedef 3<br/>App Geliştirme<br/>Mobil ve Web Apps]
+    E --> F[🤖 Hedef 4<br/>AI'ya Giriş<br/>Machine Learning]
+    F --> G[🏆 BÜYÜK HAYAL<br/>Kendi AI'ımı Yaratmak!]
     
     style A fill:#4ECDC4,stroke:#0B7285,stroke-width:3px,color:#fff
     style B fill:#96CEB4,stroke:#2B8A3E,stroke-width:3px,color:#fff
     style C fill:#DDA15E,stroke:#D08C60,stroke-width:3px,color:#fff
-    style D fill:#BC6FF1,stroke:#7209B7,stroke-width:3px,color:#fff
-    style E fill:#FF6B6B,stroke:#C92A2A,stroke-width:3px,color:#fff
+    style D fill:#F4A261,stroke:#E76F51,stroke-width:3px,color:#fff
+    style E fill:#E9C46A,stroke:#F4A261,stroke-width:3px,color:#fff
+    style F fill:#BC6FF1,stroke:#7209B7,stroke-width:3px,color:#fff
+    style G fill:#FF6B6B,stroke:#C92A2A,stroke-width:3px,color:#fff
 ```
 
 <br/>
@@ -165,7 +179,7 @@ graph TB
 </tr>
 </table>
 
-### 🎯 Sıradaki Hedeflerim (AI için öğreneceğim)
+### 🎯 Sıradaki Hedeflerim (API ve App için öğreneceğim)
 
 <table>
 <tr>
@@ -174,20 +188,32 @@ graph TB
 <br>Python<br><sub>İleri seviye</sub>
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+<br>Flask<br><sub>API için</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br>FastAPI<br><sub>API yapmak</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React<br><sub>Web app</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+<br>Flutter<br><sub>Mobil app</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js<br><sub>Backend</sub>
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
 <br>TensorFlow<br><sub>AI için</sub>
 </td>
 <td align="center" width="96">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
 <br>Scikit-learn<br><sub>ML için</sub>
-</td>
-<td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" height="48" alt="NumPy" />
-<br>NumPy<br><sub>Matematik</sub>
-</td>
-<td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" height="48" alt="Pandas" />
-<br>Pandas<br><sub>Veri analizi</sub>
 </td>
 </tr>
 </table>
@@ -252,7 +278,7 @@ graph TB
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 📚 Öğrenme
 - ✅ Python'a başladım
@@ -264,7 +290,7 @@ graph TB
 - ⏳ Python temelleri bitirme
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 💻 Basit Projeler
 - ✅ Hello World yazdım
@@ -276,16 +302,28 @@ graph TB
 - ⏳ Küçük Python oyunları
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
+
+### 🔗 API & App Hedefi
+- ⏳ Python'u iyi öğren
+- ⏳ API nedir öğren
+- ⏳ Flask veya FastAPI başla
+- ⏳ Basit bir API yap
+- ⏳ Web app yapmaya başla
+- ⏳ Mobil app öğren
+- ⏳ Kendi API'mi yayınla
+
+</td>
+<td width="25%" align="center">
 
 ### 🤖 AI Hedefim
-- ⏳ Python'u iyi öğren
 - ⏳ Matematik temelleri
-- ⏳ AI'ya giriş videoları izle
-- ⏳ Machine Learning nedir öğren
+- ⏳ AI'ya giriş videoları
+- ⏳ Machine Learning nedir
 - ⏳ Basit AI konseptleri
-- ⏳ İlk AI kütüphanesini dene
-- ⏳ Kendi AI'ımı yaratmaya başla
+- ⏳ İlk AI kütüphanesi
+- ⏳ AI projesi yap
+- ⏳ Kendi AI'ımı yarat
 
 </td>
 </tr>
