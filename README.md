@@ -8,7 +8,7 @@
   
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hoş Geldin!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&random=false&width=600&lines=13+Ya%C5%9F%C4%B1nda+Python+%C3%96%C4%9Freniyorum+%F0%9F%90%8D;Her+G%C3%BCn+Yeni+%C5%9Eeyler+Ke%C5%9Ffediyorum+%E2%9C%A8;Yapay+Zeka+Tutkunu+%F0%9F%A4%96;YouTube+'da+%C4%B0%C3%A7erik+%C3%9Creticisi+%F0%9F%8E%A5;Kod+Yaz%2C+Hata+Al%2C+%C3%96%C4%9Fren+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&random=false&width=600&lines=13+Ya%C5%9F%C4%B1nda+Python+Geli%C5%9Ftiricisi+%F0%9F%90%8D;Her+G%C3%BCn+Yeni+%C5%9Eeyler+Ke%C5%9Ffediyorum+%E2%9C%A8;Yapay+Zeka+Tutkunu+%F0%9F%A4%96;YouTube+'da+%C4%B0%C3%A7erik+%C3%9Creticisi+%F0%9F%8E%A5;Kod+Yaz%2C+Hata+Al%2C+%C3%96%C4%9Fren+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -90,11 +90,11 @@ print(f"Selam! Ben {ben.isim}!")
 ### 📊 Kod Seviyem
 
 ```text
-Python        ████░░░░░░   40%
+Python        █░░░░░░░░░   10%
 JavaScript    ██░░░░░░░░   20%
 HTML/CSS      ███░░░░░░░   30%
-Git/GitHub    ███░░░░░░░   30%
-Problem Çöz.  ████░░░░░░   40%
+Git/GitHub    ██░░░░░░░░  20%
+Problem Çöz.  ███░░░░░░░   30%
 ```
 
 </td>
@@ -114,25 +114,21 @@ Problem Çöz.  ████░░░░░░   40%
 ```mermaid
 %%{init: {'theme':'dark'}}%%
 graph TB
-    A[🎯 BAŞLANGIÇ<br/>Python Temelleri] --> B[📝 Seviye 1<br/>Değişkenler & Döngüler]
-    B --> C[🎮 Seviye 2<br/>Basit Projeler]
-    C --> D[🤖 Seviye 3<br/>ChatGPT API]
-    D --> E[🎵 Seviye 4<br/>Discord Botu]
-    E --> F[🧠 Seviye 5<br/>Machine Learning]
-    F --> G[🏆 BOSS LEVEL<br/>AI Developer]
+    A[🎯 BAŞLANGIÇ<br/>Python Temelleri] --> B[🎮 Seviye 1<br/>Basit Projeler]
+    B --> C[🤖 Seviye 2<br/>ChatGPT API]
+    C --> D[🧠 Seviye 3<br/>Machine Learning]
+    D --> E[🏆 HEDEF<br/>AI Developer]
     
     style A fill:#FF6B6B,stroke:#C92A2A,stroke-width:3px,color:#fff
     style B fill:#4ECDC4,stroke:#0B7285,stroke-width:3px,color:#fff
-    style C fill:#45B7D1,stroke:#1864AB,stroke-width:3px,color:#fff
-    style D fill:#96CEB4,stroke:#2B8A3E,stroke-width:3px,color:#fff
-    style E fill:#FFEAA7,stroke:#F59F00,stroke-width:3px,color:#000
-    style F fill:#DDA15E,stroke:#D08C60,stroke-width:3px,color:#fff
-    style G fill:#BC6FF1,stroke:#7209B7,stroke-width:3px,color:#fff
+    style C fill:#96CEB4,stroke:#2B8A3E,stroke-width:3px,color:#fff
+    style D fill:#DDA15E,stroke:#D08C60,stroke-width:3px,color:#fff
+    style E fill:#BC6FF1,stroke:#7209B7,stroke-width:3px,color:#fff
 ```
 
 <br/>
 
-### 🎯 Şu An Bulunduğum Yer: **Seviye 1-2 Arası** 🚀
+### 🎯 Şu An Bulunduğum Yer: **Seviye 1** 🚀
 
 </div>
 
