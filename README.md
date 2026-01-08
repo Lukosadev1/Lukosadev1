@@ -1,22 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ömer%20Hüseynov&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=13%20Yaşında%20Bir%20Kod%20Savaşçısı&descSize=25&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ömer%20Hüseynov&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=13%20Yaşında%20Yeni%20Başlayan%20Kodcu&descSize=25&descAlignY=55" width="100%"/>
 
 </div>
 
 <div align="center">
   
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hoş Geldin!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Selam!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&random=false&width=600&lines=13+Ya%C5%9F%C4%B1nda+Programc%C4%B1y%C4%B1m+%F0%9F%9A%80;Python+%2B+JavaScript+Geli%C5%9Ftiricisi+%F0%9F%90%8D;Her+G%C3%BCn+Yeni+%C5%9Eeyler+Ke%C5%9Ffediyorum+%E2%9C%A8;Yapay+Zeka+Tutkunu+%F0%9F%A4%96;YouTube+%C4%B0%C3%A7erik+%C3%9Creticisi+%F0%9F%8E%A5;Kod+Yaz%2C+Hata+Al%2C+%C3%96%C4%9Fren+%F0%9F%92%AA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&random=false&width=600&lines=13+Ya%C5%9F%C4%B1nda+Yeni+Ba%C5%9Flad%C4%B1m+%F0%9F%9A%80;Python+%C3%96%C4%9Freniyorum+%F0%9F%90%8D;Yapay+Zeka+Yaratmak+%C4%B0stiyorum+%F0%9F%A4%96;Her+G%C3%BCn+Yeni+%C5%9Eeyler+%C3%96%C4%9Freniyorum+%E2%9C%A8;YouTube'da+%C4%B0%C3%A7erik+Yap%C4%B1yorum+%F0%9F%8E%A5" alt="Typing SVG" />
 
 <br/>
 
 [![YouTube](https://img.shields.io/badge/YouTube_Kanalım-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CE4630)](https://www.youtube.com/channel/UCbRYSI8ZHXAZpfIO6qkAipA)
-[![Gmail](https://img.shields.io/badge/Email_Gönder-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F)](mailto:huseynovomer955@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F)](mailto:huseynovomer955@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=4752C4)](https://discord.com)
 
-<img src="https://komarev.com/ghpvc/?username=Lukosadev1&label=Profil%20Görüntüleme&color=blueviolet&style=for-the-badge" alt="profil" />
+<img src="https://komarev.com/ghpvc/?username=Lukosadev1&label=Ziyaret&color=blueviolet&style=for-the-badge" alt="profil" />
 
 </div>
 
@@ -30,87 +30,68 @@
 <tr>
 <td width="50%" valign="top">
 
-## 🚀 Hakkımda
+## 🚀 Benim Hakkımda
 
 ```python
-class KodSavaşçısı:
-    def __init__(self):
-        self.isim = "Ömer Hüseynov"
-        self.yas = 13
-        self.konum = "Bakü, Azerbaycan 🇦🇿"
-        self.diller = ["Türkçe", "Azeri", "İngilizce"]
-        self.durum = "Öğreniyor ve gelişiyor 📚"
-        self.hedef = "Full-Stack AI Developer 🤖"
-        self.motto = "Kod yaz, hata al, öğren! 💪"
-        self.sevdigim_isler = [
-            "💻 Kodlama", 
-            "🎮 Oyun oynamak", 
-            "📹 Video çekmek",
-            "🧠 Yeni teknolojiler öğrenmek"
-        ]
-    
-    def gunluk_rutin(self):
-        return {
-            "06:00": "🌅 Uyanma ve spor",
-            "07:00": "☕ Kahvaltı ve teknoloji araştırması",
-            "09:00": "💻 Python ve JavaScript kodlama",
-            "12:00": "🍽️ Öğle yemeği ve dinlenme",
-            "14:00": "📹 YouTube içeriği hazırlama",
-            "16:00": "🎮 Projeler üzerinde çalışma",
-            "19:00": "📚 Yeni konseptler öğrenme",
-            "22:00": "🌙 Uyku (kodlama rüyalarıyla)"
-        }
-    
-    def uretken_ol(self):
-        while self.durum == "Öğreniyor":
-            self.ogren()
-            self.uygula()
-            self.paylas()
-            self.gelistir()
-        return "🏆 Hedefe ulaşıldı!"
+# Dürüstçe söyleyeyim, henüz yeni başladım!
 
-# Kod maceramı başladı! 🚀
-ben = KodSavaşçısı()
-print(f"Selam! Ben {ben.isim}!")
-print("Hadi birlikte kod yazalım! 💻")
+isim = "Ömer Hüseynov"
+yas = 13
+konum = "Bakü, Azerbaycan 🇦🇿"
+seviye = "Yeni Başlayan (Acemi)"
+
+# Şu anki durumum
+python_seviyem = "Temel şeyler öğreniyorum"
+js_bilgim = "Henüz çok az biliyorum"
+ne_yapabiliyorum = [
+    "print() komutu",
+    "Basit değişkenler",
+    "if-else (bazen karıştırıyorum)",
+    "Döngüler (öğrenmeye çalışıyorum)"
+]
+
+# En büyük hayalim
+hedefim = "Kendi yapay zekamı yaratmak! 🤖"
+
+# Gerçekten yapmak istediklerim
+isteklerim = [
+    "AI geliştirici olmak",
+    "Kendi AI'ımı kodlamak",
+    "ChatGPT gibi bir şey yapmak",
+    "Machine Learning öğrenmek"
+]
+
+print("Yeni başladım ama çok hevesliyim! 💪")
 ```
 
 </td>
 <td width="50%" valign="top">
 
-## 💫 Hızlı Bilgiler
+## 💫 Gerçek Bilgiler
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🎓 **13 yaşında** profesyonel kod öğreniyorum  
-🌱 **Python ve JavaScript** ile başladım  
-🎥 **YouTuber** olmaya çalışıyorum  
-🎯 **Hedefim:** AI ve Full-Stack Developer  
-⚡ **Gerçek:** Her gün yeni bir şey öğreniyorum!  
-💭 **İnanç:** Her uzman bir zamanlar yeni başlayan biri idi  
-🔥 **Motivasyon:** %200 enerjili  
-🎮 **Hobiler:** Oyun, Kod, Video çekme, Teknoloji
+🎓 **13 yaşında** kod öğrenmeye başladım  
+🐣 **Çok yeniyim** - Python'da temel seviye  
+🎥 **YouTube'da** içerik yapmaya çalışıyorum  
+🎯 **Büyük hayalim:** AI Developer olmak  
+🤖 **En büyük hedef:** Kendi AI'ımı yaratmak  
+⚡ **Gerçek:** Henüz çok şey bilmiyorum ama öğreniyorum  
+💭 **İnanç:** Herkes bir yerden başladı!  
+🔥 **Motivasyon:** %1000 ama bilgi az 😅  
+📚 **Şu an:** Temelleri öğrenmeye çalışıyorum
 
 <br/>
 
-### 📊 Kod Seviyem
+### 📊 Dürüst Seviye Göstergem
 
 ```text
-Python         ████░░░░░░   40%
-JavaScript     ████░░░░░░   40%
-HTML/CSS       █████░░░░░   50%
-Git/GitHub     ████░░░░░░   40%
-Problem Çözme  ████░░░░░░   45%
-API Entegr.    ███░░░░░░░   30%
+Python         ██░░░░░░░░   15% (Yeni başladım)
+JavaScript     █░░░░░░░░░   5%  (Çok az biliyorum)
+HTML/CSS       ██░░░░░░░░   20% (Basit şeyler)
+AI/ML          ░░░░░░░░░░   0%  (Öğreneceğim!)
+Git/GitHub     █░░░░░░░░░   10% (Öğreniyorum)
 ```
-
-### 🎖️ Başarılarım
-
-✅ İlk Python projesi tamamlandı  
-✅ GitHub profili oluşturuldu  
-✅ YouTube kanalı açıldı  
-🔄 İlk Web uygulaması geliştiriliyor  
-🔄 Discord bot hazırlanıyor
 
 </td>
 </tr>
@@ -122,28 +103,28 @@ API Entegr.    ███░░░░░░░   30%
 
 <br/>
 
-## 📚 Öğrenme Yol Haritam
+## 📚 Öğrenme Yolculuğum
 
 <div align="center">
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
 graph TB
-    A[🎯 BAŞLANGIÇ<br/>Python & JS Temelleri] --> B[🎮 Seviye 1<br/>Basit Projeler & Web Apps]
-    B --> C[🤖 Seviye 2<br/>API Yaratmak & Backend]
-    C --> D[🧠 Seviye 3<br/>Machine Learning & AI]
-    D --> E[🏆 HEDEFİM<br/>Full-Stack AI Developer]
+    A[🎯 ŞU AN<br/>Python Temelleri<br/>print, if-else, döngüler] --> B[📖 Sonraki<br/>Fonksiyonlar<br/>Listeler, Dictionary]
+    B --> C[🎮 Hedef 1<br/>Basit Python Projeleri<br/>Hesap makinesi, oyunlar]
+    C --> D[🤖 Hedef 2<br/>AI'ya Giriş<br/>Machine Learning temelleri]
+    D --> E[🏆 BÜYÜK HAYAL<br/>Kendi AI'ımı Yaratmak!]
     
-    style A fill:#FF6B6B,stroke:#C92A2A,stroke-width:3px,color:#fff
-    style B fill:#4ECDC4,stroke:#0B7285,stroke-width:3px,color:#fff
-    style C fill:#96CEB4,stroke:#2B8A3E,stroke-width:3px,color:#fff
-    style D fill:#DDA15E,stroke:#D08C60,stroke-width:3px,color:#fff
-    style E fill:#BC6FF1,stroke:#7209B7,stroke-width:3px,color:#fff
+    style A fill:#4ECDC4,stroke:#0B7285,stroke-width:3px,color:#fff
+    style B fill:#96CEB4,stroke:#2B8A3E,stroke-width:3px,color:#fff
+    style C fill:#DDA15E,stroke:#D08C60,stroke-width:3px,color:#fff
+    style D fill:#BC6FF1,stroke:#7209B7,stroke-width:3px,color:#fff
+    style E fill:#FF6B6B,stroke:#C92A2A,stroke-width:3px,color:#fff
 ```
 
 <br/>
 
-### 🎯 Şu Anki Konumum: **Seviye 1-2 arası** 🚀
+### 🎯 Şu Anki Konumum: **Yeni başladım, Python temelleri öğreniyorum** 🌱
 
 </div>
 
@@ -153,50 +134,65 @@ graph TB
 
 <br/>
 
-## 🛠️ Teknoloji Yığınım
+## 🛠️ Ne Kullanıyorum / Öğreneceğim
 
 <div align="center">
 
-### 💻 Şu An Kullandıklarım
+### 💻 Şu An Kullandıklarım (Yeni Öğreniyorum)
 
 <table>
 <tr>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-<br>Python
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br>HTML5
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br>CSS3
+<br>Python<br><sub>Yeni başladım</sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
+<br>VS Code<br><sub>Editör</sub>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=replit" width="48" height="48" alt="Replit" />
-<br>Replit
+<br>Replit<br><sub>Online kod</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git<br><sub>Öğreniyorum</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub<br><sub>Yeni başladım</sub>
 </td>
 </tr>
 </table>
 
-### 🎯 Sıradaki Hedeflerim
+### 🎯 Sıradaki Hedeflerim (AI için öğreneceğim)
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python Advanced" />
+<br>Python<br><sub>İleri seviye</sub>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br>TensorFlow<br><sub>AI için</sub>
+</td>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" />
+<br>Scikit-learn<br><sub>ML için</sub>
+</td>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="48" height="48" alt="NumPy" />
+<br>NumPy<br><sub>Matematik</sub>
+</td>
+<td align="center" width="96">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="48" height="48" alt="Pandas" />
+<br>Pandas<br><sub>Veri analizi</sub>
+</td>
+</tr>
+</table>
+
+### 🔮 Uzak Gelecek (İleriye Dönük)
 
 <table>
 <tr>
@@ -213,63 +209,12 @@ graph TB
 <br>C++
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript Advanced" />
-<br>JS İleri
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=scala" width="48" height="48" alt="Scala" />
 <br>Scala
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-<br>TensorFlow
-</td>
-</tr>
-</table>
-
-### 🔮 Gelecek Planlarım
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-<br>Kubernetes
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-<br>PostgreSQL
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-<br>Firebase
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-<br>AWS
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord.py" />
-<br>Discord.py
-</td>
-<td align="center" width="96">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="ChatGPT API" />
-<br>ChatGPT API
 </td>
 </tr>
 </table>
@@ -289,18 +234,10 @@ graph TB
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lukosadev1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FFD700&text_color=FFFFFF&border_radius=10" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lukosadev1&theme=radical&hide_border=true&background=0D1117&stroke=FF6EC7&ring=FFD700&fire=FF6EC7&currStreakLabel=FFFFFF&border_radius=10" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukosadev1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&border_radius=10&langs_count=8" />
-</div>
 
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lukosadev1&bg_color=0d1117&color=ffffff&line=ff6ec7&point=ffd700&area=true&hide_border=true&radius=10" width="100%">
 </div>
 
 <br/>
@@ -309,58 +246,46 @@ graph TB
 
 <br/>
 
-## 🎯 2025 Hedeflerim
+## 🎯 2025 Gerçekçi Hedeflerim
 
 <div align="center">
 
 <table>
 <tr>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
 ### 📚 Öğrenme
-- ✅ Python Temelleri
-- ✅ JavaScript Temelleri
-- 🔄 OOP Kavramları
-- 🔄 Veri Yapıları
-- ⏳ Algoritmalar
-- ⏳ Java Temelleri
-- ⏳ Backend Geliştirme
+- ✅ Python'a başladım
+- 🔄 print, değişkenler
+- 🔄 if-else yapısı
+- ⏳ Döngüler (for, while)
+- ⏳ Fonksiyonlar
+- ⏳ Listeler ve Dictionary
+- ⏳ Python temelleri bitirme
 
 </td>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
-### 💻 Projeler
-- ✅ Basit Hesap Makinesi
-- 🔄 To-Do List Uygulaması
-- 🔄 Hava Durumu App (API)
-- ⏳ Discord Bot
-- ⏳ E-ticaret Sitesi
-- ⏳ ChatGPT Entegrasyonu
-- ⏳ Portfolio Website
-
-</td>
-<td width="25%" align="center">
-
-### 🎥 YouTube
-- ✅ Kanal Oluşturma
-- 🔄 İlk Videolar
-- 🔄 100 Abone
-- ⏳ 500 Abone
-- ⏳ 1000 Abone
-- ⏳ Düzenli İçerik
-- ⏳ Canlı Yayınlar
+### 💻 Basit Projeler
+- ✅ Hello World yazdım
+- 🔄 Hesap makinesi yapıyorum
+- ⏳ Sayı tahmin oyunu
+- ⏳ To-Do list (basit)
+- ⏳ İlk GitHub projemi paylaş
+- ⏳ Daha fazla pratik
+- ⏳ Küçük Python oyunları
 
 </td>
-<td width="25%" align="center">
+<td width="33%" align="center">
 
-### 🌟 Kişisel Gelişim
-- ✅ GitHub Profili
-- 🔄 Kod Portfolyosu
-- ⏳ Open Source Katkı
-- ⏳ Tech Blog Başlatma
-- ⏳ Developer Ağı
-- ⏳ Hackathon Katılımı
-- ⏳ Online Kurs
+### 🤖 AI Hedefim
+- ⏳ Python'u iyi öğren
+- ⏳ Matematik temelleri
+- ⏳ AI'ya giriş videoları izle
+- ⏳ Machine Learning nedir öğren
+- ⏳ Basit AI konseptleri
+- ⏳ İlk AI kütüphanesini dene
+- ⏳ Kendi AI'ımı yaratmaya başla
 
 </td>
 </tr>
@@ -374,200 +299,90 @@ graph TB
 
 <br/>
 
-## 💡 Projelerim ve Kodlarım
+## 💡 İlk Kodlarım
 
 <div align="center">
 
-### 🎉 Başlangıç Projeleri
+### 🎉 Buradan Başladım!
 
 </div>
 
 <details>
-<summary>🌍 Hello World - Her Şey Buradan Başladı!</summary>
+<summary>🌍 İlk Kodum - Hello World!</summary>
 
 ```python
-# İlk kodum! 🚀
-print("Merhaba Dünya! 🌍")
-print("Ben Ömer ve programlama öğreniyorum!")
-print("Bu yolculuk çok heyecan verici! 💪")
-print("Hedefim: Full-Stack AI Developer olmak! 🎯")
+# Hayatımda yazdığım ilk kod! 🚀
+print("Merhaba Dünya!")
+print("Ben Ömer, 13 yaşındayım")
+print("Kodlamayı öğrenmeye başladım!")
 ```
 
-**Yazdığım tarih:** Ocak 2025  
-**Hislerim:** Çok heyecanlıydım! İlk kodumu çalıştırdığımda kendimi süper hissettim! 🎉
+**Ne zaman:** Ocak 2025  
+**Hissettiklerim:** Çok heyecanlıydım! Çalıştığında çok mutlu oldum! 🎉
 
 </details>
 
 <details>
-<summary>🎨 Renkli Terminal - Daha Eğlenceli!</summary>
+<summary>➕ Basit Toplama Programı</summary>
 
 ```python
-# Terminal'de renkli yazılar! 🌈
-renkler = {
-    'kirmizi': '\033[91m',
-    'yesil': '\033[92m',
-    'sari': '\033[93m',
-    'mavi': '\033[94m',
-    'mor': '\033[95m',
-    'camgobegi': '\033[96m',
-    'normal': '\033[0m'
-}
+# Sayıları toplamayı öğrendim!
+sayi1 = 5
+sayi2 = 3
+toplam = sayi1 + sayi2
 
-print(f"{renkler['kirmizi']}❤️  Kırmızı Yazı")
-print(f"{renkler['yesil']}💚 Yeşil Yazı")
-print(f"{renkler['sari']}💛 Sarı Yazı")
-print(f"{renkler['mavi']}💙 Mavi Yazı")
-print(f"{renkler['mor']}💜 Mor Yazı")
-print(f"{renkler['camgobegi']}💎 Cam Göbeği Yazı")
-print(f"{renkler['normal']}✨ Normal Yazı")
+print("İlk sayı:", sayi1)
+print("İkinci sayı:", sayi2)
+print("Toplam:", toplam)
 ```
 
-**Öğrendiklerim:** ANSI renk kodlarını keşfettim ve terminal tasarımını anladım!
+**Öğrendiğim:** Değişkenlerin nasıl çalıştığını anladım!
 
 </details>
 
 <details>
-<summary>🎲 Sayı Tahmin Oyunu - İlk Gerçek Projem!</summary>
+<summary>🎯 İlk if-else Kodum</summary>
 
 ```python
-import random
+# İlk koşul yapım
+yas = 13
 
-def oyun_baslat():
-    print("🎮 SAYI TAHMİN OYUNU 🎮")
-    print("=" * 35)
-    
-    seviye = input("Zorluk seviyesini seç (kolay/orta/zor): ").lower()
-    
-    if seviye == "kolay":
-        max_sayi, max_deneme = 50, 10
-    elif seviye == "orta":
-        max_sayi, max_deneme = 100, 7
-    else:
-        max_sayi, max_deneme = 200, 5
-    
-    sayi = random.randint(1, max_sayi)
-    deneme = 0
-    
-    print(f"\n1 ile {max_sayi} arasında bir sayı tuttum!")
-    print(f"Toplam {max_deneme} hakkın var!\n")
-    
-    while deneme < max_deneme:
-        try:
-            tahmin = int(input(f"Tahmin {deneme + 1}/{max_deneme}: "))
-            deneme += 1
-            
-            if tahmin < 1 or tahmin > max_sayi:
-                print(f"⚠️  Lütfen 1-{max_sayi} arası sayı girin!")
-                continue
-            
-            if tahmin < sayi:
-                print("⬆️  Daha yüksek bir sayı söyle!")
-            elif tahmin > sayi:
-                print("⬇️  Daha düşük bir sayı söyle!")
-            else:
-                print(f"\n🎉 TEBRİKLER! {deneme} denemede bildin!")
-                print(f"🏆 Sayı {sayi} idi!")
-                return True
-        except ValueError:
-            print("❌ Sadece sayı girin!")
-    
-    print(f"\n😢 Üzgünüm, hakkın bitti!")
-    print(f"🔢 Sayı {sayi} idi!")
-    return False
+if yas < 18:
+    print("Ben çocuğum")
+else:
+    print("Ben yetişkinim")
 
-if __name__ == "__main__":
-    oyun_baslat()
-    tekrar = input("\n🔄 Tekrar oynamak ister misin? (evet/hayır): ")
-    if tekrar.lower() == "evet":
-        oyun_baslat()
-    else:
-        print("\n✨ Oynadığın için teşekkürler!")
+print("Yaşım:", yas)
 ```
 
-**Zorluk:** While döngüsü ve if-else mantığını anlamak zaman aldı ama başardım! 💪
+**Zorluk:** if-else'i anlamak biraz zaman aldı ama anladım!
 
 </details>
 
 <details>
-<summary>🧮 İnteraktif Hesap Makinesi - Fonksiyonları Öğrendim!</summary>
+<summary>🔢 Basit Hesap Makinesi (Üzerinde Çalışıyorum)</summary>
 
 ```python
-import math
+# Şu an üzerinde çalıştığım proje
+print("Basit Hesap Makinesi")
+print("1. Toplama")
+print("2. Çıkarma")
 
-def topla(a, b):
-    return a + b
+secim = input("Seçiminiz (1 veya 2): ")
+sayi1 = float(input("İlk sayı: "))
+sayi2 = float(input("İkinci sayı: "))
 
-def cikar(a, b):
-    return a - b
-
-def carp(a, b):
-    return a * b
-
-def bol(a, b):
-    if b == 0:
-        return "❌ Sıfıra bölme mümkün değil!"
-    return a / b
-
-def us(a, b):
-    return a ** b
-
-def kok(a):
-    if a < 0:
-        return "❌ Negatif sayının kökü olmaz!"
-    return math.sqrt(a)
-
-def menu_goster():
-    print("\n🧮 İNTERAKTİF HESAP MAKİNESİ 🧮")
-    print("=" * 35)
-    print("1. Toplama (+)")
-    print("2. Çıkarma (-)")
-    print("3. Çarpma (*)")
-    print("4. Bölme (/)")
-    print("5. Üs Alma (^)")
-    print("6. Karekök (√)")
-    print("0. Çıkış")
-    print("=" * 35)
-
-while True:
-    menu_goster()
-    secim = input("\nİşlemi seç (0-6): ")
-    
-    if secim == '0':
-        print("\n👋 Görüşmek üzere!")
-        break
-    
-    if secim in ['1', '2', '3', '4', '5']:
-        try:
-            sayi1 = float(input("İlk sayı: "))
-            sayi2 = float(input("İkinci sayı: "))
-            
-            if secim == '1':
-                print(f"\n✅ Sonuç: {sayi1} + {sayi2} = {topla(sayi1, sayi2)}")
-            elif secim == '2':
-                print(f"\n✅ Sonuç: {sayi1} - {sayi2} = {cikar(sayi1, sayi2)}")
-            elif secim == '3':
-                print(f"\n✅ Sonuç: {sayi1} × {sayi2} = {carp(sayi1, sayi2)}")
-            elif secim == '4':
-                print(f"\n✅ Sonuç: {sayi1} ÷ {sayi2} = {bol(sayi1, sayi2)}")
-            elif secim == '5':
-                print(f"\n✅ Sonuç: {sayi1}^{sayi2} = {us(sayi1, sayi2)}")
-        except ValueError:
-            print("\n❌ Sadece sayı girin!")
-    
-    elif secim == '6':
-        try:
-            sayi = float(input("Sayı girin: "))
-            print(f"\n✅ Sonuç: √{sayi} = {kok(sayi)}")
-        except ValueError:
-            print("\n❌ Sadece sayı girin!")
-    
-    else:
-        print("\n❌ Yanlış seçim! Lütfen 0-6 arası seçin.")
-    
-    devam = input("\nDevam etmek için Enter'a basın...")
+if secim == "1":
+    sonuc = sayi1 + sayi2
+    print("Sonuç:", sonuc)
+elif secim == "2":
+    sonuc = sayi1 - sayi2
+    print("Sonuç:", sonuc)
+else:
+    print("Yanlış seçim!")
 ```
 
-**Başarı:** İlk kez fonksiyon yazdım! Kodlarım daha düzenli görünüyor! 🎯
+**Durum:** Hala geliştiriyorum, bazen hata veriyor ama öğreniyorum! 💪
 
 </details>
 
@@ -577,7 +392,7 @@ while True:
 
 <br/>
 
-## 📺 YouTube Yolculuğum
+## 📺 YouTube Kanalım
 
 <div align="center">
 
@@ -587,18 +402,17 @@ while True:
 
 <br/><br/>
 
-### 🎬 İçerik Planım
+### 🎬 Ne Tür Videolar Yapacağım
 
-| 📹 Video Türü | 📝 Açıklama | ✅ Durum |
+| 📹 Video | 📝 İçerik | ✅ Durum |
 |:---:|:---|:---:|
-| 🚀 Başlangıç | Python ve JS'e nasıl başladım | Planlanıyor |
-| 💻 Beraber Kod | Benimle birlikte kod yaz | Planlanıyor |
-| 🐛 Hata Çözümleri | Yaptığım hatalar ve çözümleri | Planlanıyor |
-| 🎮 Proje Videoları | Hazırladığım projeleri gösterme | Planlanıyor |
-| 🤖 AI Keşifleri | ChatGPT ve AI araçları | Planlanıyor |
-| 📚 Ders Serisi | Python sıfırdan master seviye | Planlanıyor |
+| 🚀 Başlangıç | Nasıl başladım, ilk günlerim | Hazırlanıyor |
+| 📚 Öğrenme Serisi | Python öğrenme yolculuğum | Planlanıyor |
+| 🐛 Hatalarım | Yaptığım hatalar ve nasıl düzelttim | Planlanıyor |
+| 💻 Kod Along | Benimle birlikte öğren | Planlanıyor |
+| 🤖 AI Serisi | AI'ya giden yolum | İleride |
 
-### 💭 *"Her video, öğrenme yolculuğumun bir parçası!"*
+### 💭 *"Her hatam bir video konusu olabilir!"* 😅
 
 </div>
 
@@ -608,7 +422,7 @@ while True:
 
 <br/>
 
-## 🌟 İlham Verici Sözler
+## 🌟 Beni Motive Eden Şeyler
 
 <div align="center">
 
@@ -616,42 +430,33 @@ while True:
 <tr>
 <td>
 
-### 💡 Beni Motive Edenler
+### 💭 Neden AI Yaratmak İstiyorum?
 
-> *"Yeni bir programlama dilini öğrenmenin tek yolu, o dilde programlar yazmaktır."*  
-> **— Dennis Ritchie**
-
-> *"Kod mizah gibidir. Açıklaması gerekiyorsa, kötüdür."*  
-> **— Cory House**
-
-> *"Önce problemi çöz. Sonra kodu yaz."*  
-> **— John Johnson**
-
-> *"En iyi hata mesajı, hiç gösterilmeyendir."*  
-> **— Thomas Fuchs**
+- 🤖 AI çok havalı ve gelecek bu!
+- 🧠 Kendi yapay zekam olsun istiyorum
+- 💡 ChatGPT gibi bir şey yapmak çok cool
+- 🎯 Büyük bir hedef ama beni motive ediyor
+- 🚀 İmkansız görünüyor ama denemeliyim!
 
 </td>
 <td>
 
-### 🎯 Benim Mottoм
+### 🎯 Gerçekçi Düşüncelerim
 
 ```python
-while True:
-    kod_yaz()
-    hata_al()
-    ogren()
-    
-    if basarili():
-        kutla()
-    else:
-        yeniden_dene()
-    
-    # Asla vazgeçme! 💪
-```
+durum = "Yeni başlayan"
+bilgi_seviyem = "Çok az"
+motivasyon = "Çok yüksek"
+sabir = "Öğrenmeye çalışıyorum"
 
-**🔥 İnanç:**  
-Her hata, bir öğrenme fırsatıdır!  
-Her başarısız deneme, başarıya bir adım daha yaklaşmaktır!
+while bilgi_seviyem < "Uzman":
+    ogren()
+    pratik_yap()
+    hata_yap()
+    tekrar_dene()
+
+# Bir gün başaracağım! 💪
+```
 
 </td>
 </tr>
@@ -669,36 +474,34 @@ Her başarısız deneme, başarıya bir adım daha yaklaşmaktır!
 
 <div align="center">
 
-### 🤝 Birlikte Öğrenelim!
-
 <table>
 <tr>
 <td align="center" width="200">
 <a href="https://www.youtube.com/channel/UCbRYSI8ZHXAZpfIO6qkAipA">
 <img src="https://img.icons8.com/color/96/000000/youtube-play.png" width="80"/><br/>
 <b>YouTube</b><br/>
-<sub>Videoları izle</sub>
+<sub>Kanalımı izle</sub>
 </a>
 </td>
 <td align="center" width="200">
 <a href="mailto:huseynovomer955@gmail.com">
 <img src="https://img.icons8.com/color/96/000000/gmail.png" width="80"/><br/>
 <b>Gmail</b><br/>
-<sub>Email gönder</sub>
+<sub>Email at</sub>
 </a>
 </td>
 <td align="center" width="200">
 <a href="https://discord.com">
 <img src="https://img.icons8.com/color/96/000000/discord-logo.png" width="80"/><br/>
 <b>Discord</b><br/>
-<sub>Sohbet et</sub>
+<sub>Konuşalım</sub>
 </a>
 </td>
 <td align="center" width="200">
 <a href="https://github.com/Lukosadev1">
 <img src="https://img.icons8.com/fluency/96/000000/github.png" width="80"/><br/>
 <b>GitHub</b><br/>
-<sub>Kodları incele</sub>
+<sub>Takip et</sub>
 </a>
 </td>
 </tr>
@@ -706,15 +509,7 @@ Her başarısız deneme, başarıya bir adım daha yaklaşmaktır!
 
 <br/>
 
-### 💬 Mesaj Gönder
-
-[![YouTube](https://img.shields.io/badge/YouTube'da_Bul-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CE4630)](https://www.youtube.com/channel/UCbRYSI8ZHXAZpfIO6qkAipA)
-[![Email](https://img.shields.io/badge/Email_Gönder-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F)](mailto:huseynovomer955@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord'da_Konuş-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=4752C4)](https://discord.com)
-
-<br/>
-
-**💡 Soru, öneri veya sadece sohbet için her zaman açığım!**
+**💬 Eğer sen de yeni başladıysan birlikte öğrenebiliriz!**
 
 </div>
 
@@ -726,18 +521,14 @@ Her başarısız deneme, başarıya bir adım daha yaklaşmaktır!
 
 <div align="center">
 
-## 🎓 Öğrenme Kaynaklarım
+## 🎓 Kullandığım Kaynaklar
 
-*Eğer sen de öğreniyorsan, bunlar çok işime yarıyor:*
+*Bunlardan öğreniyorum, sen de bakabilirsin:*
 
-[![Python.org](https://img.shields.io/badge/Python.org-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)](https://w3schools.com)
-[![MDN](https://img.shields.io/badge/MDN_Docs-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white)](https://developer.mozilla.org)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
-[![YouTube](https://img.shields.io/badge/YouTube_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org)
-[![GitHub](https://img.shields.io/badge/GitHub_Learning-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Python.org](https://img.shields.io/badge/Python.org-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 
 </div>
 
@@ -749,151 +540,38 @@ Her başarısız deneme, başarıya bir adım daha yaklaşmaktır!
 
 <div align="center">
 
-## 🏆 Öğrenme Kilometre Taşları
+## 🌈 Son Sözler
 
-<table>
-<tr>
-<td align="center" width="25%">
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="150">
 
-### 📅 Ocak 2025
-✅ İlk Python kodu  
-✅ Git öğrenmeye başladım  
-✅ GitHub hesabı açtım  
-✅ İlk hesap makinesi
+### ✨ *Evet, yeni başladım ve çok şey bilmiyorum*
+### 💪 *Ama her gün yeni bir şey öğreniyorum!*
+### 🤖 *Bir gün kendi AI'ımı yapacağım!*
 
-</td>
-<td align="center" width="25%">
-
-### 🎯 Şubat 2025
-🔄 JavaScript öğreniyorum  
-🔄 İlk web projesi  
-⏳ HTML/CSS master  
-⏳ İlk GitHub repo
-
-</td>
-<td align="center" width="25%">
-
-### 🚀 Mart 2025
-⏳ API kullanımı  
-⏳ Backend temelleri  
-⏳ Database öğrenme  
-⏳ Discord bot projesi
-
-</td>
-<td align="center" width="25%">
-
-### 💫 İleride
-⏳ Java öğrenme  
-⏳ AI projeleri  
-⏳ Full-stack proje  
-⏳ İlk freelance iş
-
-</td>
-</tr>
-</table>
-
-</div>
+**13 yaşında, büyük hayallerle! 🚀**
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-<div align="center">
-
-## 💼 Proje Vitrini
-
-### 🎨 Yakında Gelecek Projeler
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🌦️ Hava Durumu Uygulaması
-**Durum:** Geliştiriliyor 🔄  
-**Teknolojiler:** Python, API, Tkinter  
-**Özellikler:**
-- Gerçek zamanlı hava durumu
-- 7 günlük tahmin
-- Şehir arama
-- Görsel grafikler
-
-</td>
-<td align="center" width="33%">
-
-### 📝 To-Do List Web App
-**Durum:** Planlanıyor ⏳  
-**Teknolojiler:** HTML, CSS, JavaScript  
-**Özellikler:**
-- Görev ekleme/silme
-- Tamamlanma takibi
-- Öncelik seviyeleri
-- Local storage
-
-</td>
-<td align="center" width="33%">
-
-### 🤖 Discord Bot
-**Durum:** Planlanıyor ⏳  
-**Teknolojiler:** Python, Discord.py  
-**Özellikler:**
-- Moderasyon komutları
-- Müzik çalma
-- Mini oyunlar
-- AI entegrasyonu
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-<div align="center">
-
-## 🌈 Yolculuğuma Katıl!
-
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="200">
-
-### ✨ *Henüz başlangıçtayım ama azimle devam ediyorum!*
-
-**13 yaşında, sınırsız potansiyelle! 🚀**
-
-<br/>
-
-### 📈 Profil İstatistikleri
 
 ![Followers](https://img.shields.io/github/followers/Lukosadev1?style=for-the-badge&color=blue&labelColor=1a1b27)
 ![Stars](https://img.shields.io/github/stars/Lukosadev1?style=for-the-badge&color=yellow&labelColor=1a1b27)
-![Repos](https://img.shields.io/badge/Repositories-Hazırlanıyor-orange?style=for-the-badge&labelColor=1a1b27)
-![Commits](https://img.shields.io/badge/Commits-Her_Gün-green?style=for-the-badge&labelColor=1a1b27)
 
 <br/>
 
-### 🎯 Son Güncelleme: Ocak 2025
-
-**⭐ Bu profili beğendiysen yıldız vermeyi unutma!**  
-**🔔 Takip et ve yolculuğumu izle!**  
-**💬 Geri bildirimlerine açığım!**
+**⭐ Eğer sen de yeni başladıysan, birlikte öğrenelim!**  
+**💬 Sorularını sorabilirsin, ben de öğreniyorum!**
 
 <br/>
 
 ---
 
-<sub>💖 Sevgiyle kodlanmıştır | 🚀 Yapımda: Ömer Hüseynov | ⚡ Sürekli Gelişiyor</sub>
+<sub>💖 13 yaşında bir çocuk tarafından yazıldı | 🚀 Her gün öğreniyorum | ⚡ Hedef: Kendi AI'ımı yaratmak</sub>
 
 <br/>
 
-### 🎊 Teşekkürler!
+### 🙏 Teşekkürler!
 
-*Bu profili ziyaret ettiğin için teşekkür ederim! Eğer benimle aynı yolculuktaysan, birlikte öğrenelim ve büyüyelim! 💪*
+*Bu profili okuduğun için teşekkürler! Unutma, herkes bir yerden başladı. Ben de şimdi başlıyorum! 💪*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Görüşmek%20Üzere!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Hadi%20Birlikte%20Öğrenelim!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
