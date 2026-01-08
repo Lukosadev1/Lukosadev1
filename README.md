@@ -8,16 +8,15 @@
   
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hoş Geldin!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&random=false&width=600&lines=13+Ya%C5%9F%C4%B1nda+Python+Geli%C5%9Ftiricisi+%F0%9F%90%8D;Her+G%C3%BCn+Yeni+%C5%9Eeyler+Ke%C5%9Ffediyorum+%E2%9C%A8;Yapay+Zeka+Tutkunu+%F0%9F%A4%96;YouTube+'da+%C4%B0%C3%A7erik+%C3%9Creticisi+%F0%9F%8E%A5;Kod+Yaz%2C+Hata+Al%2C+%C3%96%C4%9Fren+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6EC7&center=true&vCenter=true&random=false&width=600&lines=13+Ya%C5%9F%C4%B1nda+Programc%C4%B1y%C4%B1m+%F0%9F%9A%80;Python+%2B+JavaScript+Geli%C5%9Ftiricisi+%F0%9F%90%8D;Her+G%C3%BCn+Yeni+%C5%9Eeyler+Ke%C5%9Ffediyorum+%E2%9C%A8;Yapay+Zeka+Tutkunu+%F0%9F%A4%96;YouTube+%C4%B0%C3%A7erik+%C3%9Creticisi+%F0%9F%8E%A5;Kod+Yaz%2C+Hata+Al%2C+%C3%96%C4%9Fren+%F0%9F%92%AA" alt="Typing SVG" />
 
 <br/>
 
 [![YouTube](https://img.shields.io/badge/YouTube_Kanalım-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CE4630)](https://www.youtube.com/channel/UCbRYSI8ZHXAZpfIO6qkAipA)
 [![Gmail](https://img.shields.io/badge/Email_Gönder-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F)](mailto:huseynovomer955@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord'da_Sohbet-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=4752C4)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=4752C4)](https://discord.com)
 
 <img src="https://komarev.com/ghpvc/?username=Lukosadev1&label=Profil%20Görüntüleme&color=blueviolet&style=for-the-badge" alt="profil" />
-
 
 </div>
 
@@ -38,34 +37,42 @@ class KodSavaşçısı:
     def __init__(self):
         self.isim = "Ömer Hüseynov"
         self.yas = 13
-        self.konum = "Baku, Azerbaijan 🇦🇿"
-        self.diller = ["Türkçe", "Azeri"]
-        self.durum = "Öğreniyorum 📚"
-        self.hedef = "AI Developer 🤖"
+        self.konum = "Bakü, Azerbaycan 🇦🇿"
+        self.diller = ["Türkçe", "Azeri", "İngilizce"]
+        self.durum = "Öğreniyor ve gelişiyor 📚"
+        self.hedef = "Full-Stack AI Developer 🤖"
         self.motto = "Kod yaz, hata al, öğren! 💪"
+        self.sevdigim_isler = [
+            "💻 Kodlama", 
+            "🎮 Oyun oynamak", 
+            "📹 Video çekmek",
+            "🧠 Yeni teknolojiler öğrenmek"
+        ]
     
     def gunluk_rutin(self):
-        aktiviteler = [
-            "☕ Kahvaltı",
-            "💻 Python Pratik",
-            "📹 YouTube İçerik Hazırla",
-            "🎮 Projeler Üzerinde Çalış",
-            "📚 Yeni Şeyler Öğren",
-            "🌙 Uyku (kodlama rüyaları)"
-        ]
-        return aktiviteler
-    
-    def yetenekler(self):
         return {
-            "Kodlama": "🟢 Başlangıç",
-            "Problem Çözme": "🟡 Gelişiyor",
-            "Öğrenme Hızı": "🟢 Yüksek",
-            "Motivasyon": "🟢 Maksimum"
+            "06:00": "🌅 Uyanma ve spor",
+            "07:00": "☕ Kahvaltı ve teknoloji araştırması",
+            "09:00": "💻 Python ve JavaScript kodlama",
+            "12:00": "🍽️ Öğle yemeği ve dinlenme",
+            "14:00": "📹 YouTube içeriği hazırlama",
+            "16:00": "🎮 Projeler üzerinde çalışma",
+            "19:00": "📚 Yeni konseptler öğrenme",
+            "22:00": "🌙 Uyku (kodlama rüyalarıyla)"
         }
+    
+    def uretken_ol(self):
+        while self.durum == "Öğreniyor":
+            self.ogren()
+            self.uygula()
+            self.paylas()
+            self.gelistir()
+        return "🏆 Hedefe ulaşıldı!"
 
-# Kod yolculuğum başladı! 🚀
+# Kod maceramı başladı! 🚀
 ben = KodSavaşçısı()
 print(f"Selam! Ben {ben.isim}!")
+print("Hadi birlikte kod yazalım! 💻")
 ```
 
 </td>
@@ -75,26 +82,35 @@ print(f"Selam! Ben {ben.isim}!")
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🎓 **13 yaşında** kod öğreniyorum  
-🌱 **Python** ile başladım  
+🎓 **13 yaşında** profesyonel kod öğreniyorum  
+🌱 **Python ve JavaScript** ile başladım  
 🎥 **YouTuber** olmaya çalışıyorum  
-🎯 **Hedefim:** AI projeleri yapmak  
-⚡ **Gerçek:** Henüz yeni başladım!  
-💭 **İnaç:** Her uzman acemiydi  
-🔥 **Motivasyon:** %100 şarjda  
-🎮 **Hobiler:** Oyun, Kod, Video çekme
+🎯 **Hedefim:** AI ve Full-Stack Developer  
+⚡ **Gerçek:** Her gün yeni bir şey öğreniyorum!  
+💭 **İnanç:** Her uzman bir zamanlar yeni başlayan biri idi  
+🔥 **Motivasyon:** %200 enerjili  
+🎮 **Hobiler:** Oyun, Kod, Video çekme, Teknoloji
 
 <br/>
 
 ### 📊 Kod Seviyem
 
 ```text
-Python        █░░░░░░░░░   10%
-JavaScript    ██░░░░░░░░   20%
-HTML/CSS      ███░░░░░░░   30%
-Git/GitHub    ██░░░░░░░░  20%
-Problem Çöz.  ███░░░░░░░   30%
+Python         ████░░░░░░   40%
+JavaScript     ████░░░░░░   40%
+HTML/CSS       █████░░░░░   50%
+Git/GitHub     ████░░░░░░   40%
+Problem Çözme  ████░░░░░░   45%
+API Entegr.    ███░░░░░░░   30%
 ```
+
+### 🎖️ Başarılarım
+
+✅ İlk Python projesi tamamlandı  
+✅ GitHub profili oluşturuldu  
+✅ YouTube kanalı açıldı  
+🔄 İlk Web uygulaması geliştiriliyor  
+🔄 Discord bot hazırlanıyor
 
 </td>
 </tr>
@@ -113,10 +129,10 @@ Problem Çöz.  ███░░░░░░░   30%
 ```mermaid
 %%{init: {'theme':'dark'}}%%
 graph TB
-    A[🎯 BAŞLANGIÇ<br/>Python Temelleri] --> B[🎮 Seviye 1<br/>Basit Projeler]
-    B --> C[🤖 Seviye 2<br/>API YARATMAK]
-    C --> D[🧠 Seviye 3<br/>Machine Learning]
-    D --> E[🏆 HEDEF<br/>AI Developer]
+    A[🎯 BAŞLANGIÇ<br/>Python & JS Temelleri] --> B[🎮 Seviye 1<br/>Basit Projeler & Web Apps]
+    B --> C[🤖 Seviye 2<br/>API Yaratmak & Backend]
+    C --> D[🧠 Seviye 3<br/>Machine Learning & AI]
+    D --> E[🏆 HEDEFİM<br/>Full-Stack AI Developer]
     
     style A fill:#FF6B6B,stroke:#C92A2A,stroke-width:3px,color:#fff
     style B fill:#4ECDC4,stroke:#0B7285,stroke-width:3px,color:#fff
@@ -127,7 +143,7 @@ graph TB
 
 <br/>
 
-### 🎯 Şu An Bulunduğum Yer: **Seviye 1** 🚀
+### 🎯 Şu Anki Konumum: **Seviye 1-2 arası** 🚀
 
 </div>
 
@@ -141,7 +157,7 @@ graph TB
 
 <div align="center">
 
-### 💻 Kullandıklarım
+### 💻 Şu An Kullandıklarım
 
 <table>
 <tr>
@@ -180,17 +196,29 @@ graph TB
 </tr>
 </table>
 
-### 🎯 Öğrenmeyi Planlıyorum
+### 🎯 Sıradaki Hedeflerim
 
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord.py" />
-<br>Discord.py
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
-<br>TensorFlow
+<img src="https://skillicons.dev/icons?i=r" width="48" height="48" alt="R" />
+<br>R
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript Advanced" />
+<br>JS İleri
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=scala" width="48" height="48" alt="Scala" />
+<br>Scala
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
@@ -201,20 +229,47 @@ graph TB
 <br>Node.js
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br>TensorFlow
+</td>
+</tr>
+</table>
+
+### 🔮 Gelecek Planlarım
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br>Kubernetes
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
 <br>PostgreSQL
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
 <br>Firebase
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=discord" width="48" height="48" alt="Discord.py" />
+<br>Discord.py
+</td>
+<td align="center" width="96">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="48" height="48" alt="ChatGPT API" />
-<br>ChatGPT
+<br>ChatGPT API
 </td>
 </tr>
 </table>
@@ -230,26 +285,22 @@ graph TB
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  
 
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lukosadev1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FFD700&text_color=FFFFFF&border_radius=10" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lukosadev1&theme=radical&hide_border=true&background=0D1117&stroke=FF6EC7&ring=FFD700&fire=FF6EC7&currStreakLabel=FFFFFF&border_radius=10" />
 
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lukosadev1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FFD700&text_color=FFFFFF&border_radius=10" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lukosadev1&theme=radical&hide_border=true&background=0D1117&stroke=FF6EC7&ring=FFD700&fire=FF6EC7&currStreakLabel=FFFFFF&border_radius=10" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukosadev1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&border_radius=10&langs_count=8" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukosadev1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&border_radius=10&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lukosadev1&bg_color=0d1117&color=ffffff&line=ff6ec7&point=ffd700&area=true&hide_border=true&radius=10" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lukosadev1&bg_color=0d1117&color=ffffff&line=ff6ec7&point=ffd700&area=true&hide_border=true&radius=10" width="100%">
 </div>
 
 <br/>
@@ -264,34 +315,52 @@ graph TB
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 📚 Öğrenme
 - ✅ Python Temelleri
-- 🔄 Döngüler & Fonksiyonlar
-- ⏳ OOP Kavramları
-- ⏳ Veri Yapıları
+- ✅ JavaScript Temelleri
+- 🔄 OOP Kavramları
+- 🔄 Veri Yapıları
 - ⏳ Algoritmalar
+- ⏳ Java Temelleri
+- ⏳ Backend Geliştirme
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 💻 Projeler
-- ⏳ İlk Basit Proje
-- ⏳ Hesap Makinesi
-- ⏳ To-Do List App
+- ✅ Basit Hesap Makinesi
+- 🔄 To-Do List Uygulaması
+- 🔄 Hava Durumu App (API)
 - ⏳ Discord Bot
+- ⏳ E-ticaret Sitesi
 - ⏳ ChatGPT Entegrasyonu
+- ⏳ Portfolio Website
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 ### 🎥 YouTube
 - ✅ Kanal Oluşturma
 - 🔄 İlk Videolar
-- ⏳ 100 Abone
+- 🔄 100 Abone
 - ⏳ 500 Abone
 - ⏳ 1000 Abone
+- ⏳ Düzenli İçerik
+- ⏳ Canlı Yayınlar
+
+</td>
+<td width="25%" align="center">
+
+### 🌟 Kişisel Gelişim
+- ✅ GitHub Profili
+- 🔄 Kod Portfolyosu
+- ⏳ Open Source Katkı
+- ⏳ Tech Blog Başlatma
+- ⏳ Developer Ağı
+- ⏳ Hackathon Katılımı
+- ⏳ Online Kurs
 
 </td>
 </tr>
@@ -305,11 +374,11 @@ graph TB
 
 <br/>
 
-## 💡 İlk Kodlarım
+## 💡 Projelerim ve Kodlarım
 
 <div align="center">
 
-### 🎉 İşte Başlangıç!
+### 🎉 Başlangıç Projeleri
 
 </div>
 
@@ -319,8 +388,9 @@ graph TB
 ```python
 # İlk kodum! 🚀
 print("Merhaba Dünya! 🌍")
-print("Ben Ömer ve kodlamayı öğreniyorum!")
+print("Ben Ömer ve programlama öğreniyorum!")
 print("Bu yolculuk çok heyecan verici! 💪")
+print("Hedefim: Full-Stack AI Developer olmak! 🎯")
 ```
 
 **Yazdığım tarih:** Ocak 2025  
@@ -329,19 +399,30 @@ print("Bu yolculuk çok heyecan verici! 💪")
 </details>
 
 <details>
-<summary>🎨 Renkli Çıktı - Biraz Daha Eğlenceli!</summary>
+<summary>🎨 Renkli Terminal - Daha Eğlenceli!</summary>
 
 ```python
 # Terminal'de renkli yazılar! 🌈
-print("\033[91m❤️ Kırmızı Yazı")
-print("\033[92m💚 Yeşil Yazı")
-print("\033[93m💛 Sarı Yazı")
-print("\033[94m💙 Mavi Yazı")
-print("\033[95m💜 Mor Yazı")
-print("\033[0m✨ Normal Yazı")
+renkler = {
+    'kirmizi': '\033[91m',
+    'yesil': '\033[92m',
+    'sari': '\033[93m',
+    'mavi': '\033[94m',
+    'mor': '\033[95m',
+    'camgobegi': '\033[96m',
+    'normal': '\033[0m'
+}
+
+print(f"{renkler['kirmizi']}❤️  Kırmızı Yazı")
+print(f"{renkler['yesil']}💚 Yeşil Yazı")
+print(f"{renkler['sari']}💛 Sarı Yazı")
+print(f"{renkler['mavi']}💙 Mavi Yazı")
+print(f"{renkler['mor']}💜 Mor Yazı")
+print(f"{renkler['camgobegi']}💎 Cam Göbeği Yazı")
+print(f"{renkler['normal']}✨ Normal Yazı")
 ```
 
-**Ne öğrendim:** ANSI renk kodlarını keşfettim!
+**Öğrendiklerim:** ANSI renk kodlarını keşfettim ve terminal tasarımını anladım!
 
 </details>
 
@@ -351,33 +432,56 @@ print("\033[0m✨ Normal Yazı")
 ```python
 import random
 
-print("🎮 SAYI TAHMİN OYUNU 🎮")
-print("=" * 30)
-
-sayi = random.randint(1, 100)
-deneme = 0
-max_deneme = 10
-
-print(f"1 ile 100 arasında bir sayı tuttum!")
-print(f"Toplam {max_deneme} hakkın var!\n")
-
-while deneme < max_deneme:
-    tahmin = int(input(f"Tahmin {deneme + 1}/{max_deneme}: "))
-    deneme += 1
+def oyun_baslat():
+    print("🎮 SAYI TAHMİN OYUNU 🎮")
+    print("=" * 35)
     
-    if tahmin < sayi:
-        print("⬆️  Daha yüksek bir sayı söyle!")
-    elif tahmin > sayi:
-        print("⬇️  Daha düşük bir sayı söyle!")
+    seviye = input("Zorluk seviyesini seç (kolay/orta/zor): ").lower()
+    
+    if seviye == "kolay":
+        max_sayi, max_deneme = 50, 10
+    elif seviye == "orta":
+        max_sayi, max_deneme = 100, 7
     else:
-        print(f"\n🎉 TEBRİKLER! {deneme} denemede bildin!")
-        print(f"🏆 Sayı {sayi} idi!")
-        break
-else:
+        max_sayi, max_deneme = 200, 5
+    
+    sayi = random.randint(1, max_sayi)
+    deneme = 0
+    
+    print(f"\n1 ile {max_sayi} arasında bir sayı tuttum!")
+    print(f"Toplam {max_deneme} hakkın var!\n")
+    
+    while deneme < max_deneme:
+        try:
+            tahmin = int(input(f"Tahmin {deneme + 1}/{max_deneme}: "))
+            deneme += 1
+            
+            if tahmin < 1 or tahmin > max_sayi:
+                print(f"⚠️  Lütfen 1-{max_sayi} arası sayı girin!")
+                continue
+            
+            if tahmin < sayi:
+                print("⬆️  Daha yüksek bir sayı söyle!")
+            elif tahmin > sayi:
+                print("⬇️  Daha düşük bir sayı söyle!")
+            else:
+                print(f"\n🎉 TEBRİKLER! {deneme} denemede bildin!")
+                print(f"🏆 Sayı {sayi} idi!")
+                return True
+        except ValueError:
+            print("❌ Sadece sayı girin!")
+    
     print(f"\n😢 Üzgünüm, hakkın bitti!")
     print(f"🔢 Sayı {sayi} idi!")
+    return False
 
-print("\n✨ Oynadığın için teşekkürler!")
+if __name__ == "__main__":
+    oyun_baslat()
+    tekrar = input("\n🔄 Tekrar oynamak ister misin? (evet/hayır): ")
+    if tekrar.lower() == "evet":
+        oyun_baslat()
+    else:
+        print("\n✨ Oynadığın için teşekkürler!")
 ```
 
 **Zorluk:** While döngüsü ve if-else mantığını anlamak zaman aldı ama başardım! 💪
@@ -385,9 +489,11 @@ print("\n✨ Oynadığın için teşekkürler!")
 </details>
 
 <details>
-<summary>🧮 Basit Hesap Makinesi - Fonksiyonları Öğrendim!</summary>
+<summary>🧮 İnteraktif Hesap Makinesi - Fonksiyonları Öğrendim!</summary>
 
 ```python
+import math
+
 def topla(a, b):
     return a + b
 
@@ -399,30 +505,66 @@ def carp(a, b):
 
 def bol(a, b):
     if b == 0:
-        return "❌ Sıfıra bölünemez!"
+        return "❌ Sıfıra bölme mümkün değil!"
     return a / b
 
-print("🧮 HESAP MAKİNESİ 🧮")
-print("=" * 30)
-print("1. Toplama (+)")
-print("2. Çıkarma (-)")
-print("3. Çarpma (*)")
-print("4. Bölme (/)")
+def us(a, b):
+    return a ** b
 
-secim = input("\nİşlem seç (1-4): ")
-sayi1 = float(input("İlk sayı: "))
-sayi2 = float(input("İkinci sayı: "))
+def kok(a):
+    if a < 0:
+        return "❌ Negatif sayının kökü olmaz!"
+    return math.sqrt(a)
 
-if secim == '1':
-    print(f"\n✅ Sonuç: {topla(sayi1, sayi2)}")
-elif secim == '2':
-    print(f"\n✅ Sonuç: {cikar(sayi1, sayi2)}")
-elif secim == '3':
-    print(f"\n✅ Sonuç: {carp(sayi1, sayi2)}")
-elif secim == '4':
-    print(f"\n✅ Sonuç: {bol(sayi1, sayi2)}")
-else:
-    print("\n❌ Geçersiz seçim!")
+def menu_goster():
+    print("\n🧮 İNTERAKTİF HESAP MAKİNESİ 🧮")
+    print("=" * 35)
+    print("1. Toplama (+)")
+    print("2. Çıkarma (-)")
+    print("3. Çarpma (*)")
+    print("4. Bölme (/)")
+    print("5. Üs Alma (^)")
+    print("6. Karekök (√)")
+    print("0. Çıkış")
+    print("=" * 35)
+
+while True:
+    menu_goster()
+    secim = input("\nİşlemi seç (0-6): ")
+    
+    if secim == '0':
+        print("\n👋 Görüşmek üzere!")
+        break
+    
+    if secim in ['1', '2', '3', '4', '5']:
+        try:
+            sayi1 = float(input("İlk sayı: "))
+            sayi2 = float(input("İkinci sayı: "))
+            
+            if secim == '1':
+                print(f"\n✅ Sonuç: {sayi1} + {sayi2} = {topla(sayi1, sayi2)}")
+            elif secim == '2':
+                print(f"\n✅ Sonuç: {sayi1} - {sayi2} = {cikar(sayi1, sayi2)}")
+            elif secim == '3':
+                print(f"\n✅ Sonuç: {sayi1} × {sayi2} = {carp(sayi1, sayi2)}")
+            elif secim == '4':
+                print(f"\n✅ Sonuç: {sayi1} ÷ {sayi2} = {bol(sayi1, sayi2)}")
+            elif secim == '5':
+                print(f"\n✅ Sonuç: {sayi1}^{sayi2} = {us(sayi1, sayi2)}")
+        except ValueError:
+            print("\n❌ Sadece sayı girin!")
+    
+    elif secim == '6':
+        try:
+            sayi = float(input("Sayı girin: "))
+            print(f"\n✅ Sonuç: √{sayi} = {kok(sayi)}")
+        except ValueError:
+            print("\n❌ Sadece sayı girin!")
+    
+    else:
+        print("\n❌ Yanlış seçim! Lütfen 0-6 arası seçin.")
+    
+    devam = input("\nDevam etmek için Enter'a basın...")
 ```
 
 **Başarı:** İlk kez fonksiyon yazdım! Kodlarım daha düzenli görünüyor! 🎯
@@ -440,7 +582,7 @@ else:
 <div align="center">
 
 <a href="https://www.youtube.com/channel/UCbRYSI8ZHXAZpfIO6qkAipA">
-  <img src="https://img.shields.io/badge/ABONE_OL-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CE4630" height="50"/>
+<img src="https://img.shields.io/badge/ABONE_OL-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CE4630" height="50"/>
 </a>
 
 <br/><br/>
@@ -449,11 +591,12 @@ else:
 
 | 📹 Video Türü | 📝 Açıklama | ✅ Durum |
 |:---:|:---|:---:|
-| 🚀 Başlangıç | Python'a nasıl başladım | Planlıyor |
-| 💻 Kod Along | Benimle birlikte kod yaz | Planlıyor |
-| 🐛 Hata Çözümleri | Yaptığım hatalar ve çözümler | Planlıyor |
-| 🎮 Proje Videoları | Yaptığım projeleri gösterme | Planlıyor |
-| 🤖 AI Keşifleri | ChatGPT ve AI araçları | Planlıyor |
+| 🚀 Başlangıç | Python ve JS'e nasıl başladım | Planlanıyor |
+| 💻 Beraber Kod | Benimle birlikte kod yaz | Planlanıyor |
+| 🐛 Hata Çözümleri | Yaptığım hatalar ve çözümleri | Planlanıyor |
+| 🎮 Proje Videoları | Hazırladığım projeleri gösterme | Planlanıyor |
+| 🤖 AI Keşifleri | ChatGPT ve AI araçları | Planlanıyor |
+| 📚 Ders Serisi | Python sıfırdan master seviye | Planlanıyor |
 
 ### 💭 *"Her video, öğrenme yolculuğumun bir parçası!"*
 
@@ -475,16 +618,16 @@ else:
 
 ### 💡 Beni Motive Edenler
 
-> *"The only way to learn a new programming language is by writing programs in it."*  
+> *"Yeni bir programlama dilini öğrenmenin tek yolu, o dilde programlar yazmaktır."*  
 > **— Dennis Ritchie**
 
-> *"Code is like humor. When you have to explain it, it's bad."*  
+> *"Kod mizah gibidir. Açıklaması gerekiyorsa, kötüdür."*  
 > **— Cory House**
 
-> *"First, solve the problem. Then, write the code."*  
+> *"Önce problemi çöz. Sonra kodu yaz."*  
 > **— John Johnson**
 
-> *"The best error message is the one that never shows up."*  
+> *"En iyi hata mesajı, hiç gösterilmeyendir."*  
 > **— Thomas Fuchs**
 
 </td>
@@ -565,7 +708,7 @@ Her başarısız deneme, başarıya bir adım daha yaklaşmaktır!
 
 ### 💬 Mesaj Gönder
 
-[![YouTube](https://img.shields.io/badge/YouTube_'da_Bul-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CE4630)](https://www.youtube.com/channel/UCbRYSI8ZHXAZpfIO6qkAipA)
+[![YouTube](https://img.shields.io/badge/YouTube'da_Bul-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CE4630)](https://www.youtube.com/channel/UCbRYSI8ZHXAZpfIO6qkAipA)
 [![Email](https://img.shields.io/badge/Email_Gönder-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C5221F)](mailto:huseynovomer955@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord'da_Konuş-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=4752C4)](https://discord.com)
 
@@ -593,6 +736,116 @@ Her başarısız deneme, başarıya bir adım daha yaklaşmaktır!
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
 [![YouTube](https://img.shields.io/badge/YouTube_Tutorials-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://freecodecamp.org)
+[![GitHub](https://img.shields.io/badge/GitHub_Learning-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+## 🏆 Öğrenme Kilometre Taşları
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 📅 Ocak 2025
+✅ İlk Python kodu  
+✅ Git öğrenmeye başladım  
+✅ GitHub hesabı açtım  
+✅ İlk hesap makinesi
+
+</td>
+<td align="center" width="25%">
+
+### 🎯 Şubat 2025
+🔄 JavaScript öğreniyorum  
+🔄 İlk web projesi  
+⏳ HTML/CSS master  
+⏳ İlk GitHub repo
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 Mart 2025
+⏳ API kullanımı  
+⏳ Backend temelleri  
+⏳ Database öğrenme  
+⏳ Discord bot projesi
+
+</td>
+<td align="center" width="25%">
+
+### 💫 İleride
+⏳ Java öğrenme  
+⏳ AI projeleri  
+⏳ Full-stack proje  
+⏳ İlk freelance iş
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<br/>
+
+<div align="center">
+
+## 💼 Proje Vitrini
+
+### 🎨 Yakında Gelecek Projeler
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🌦️ Hava Durumu Uygulaması
+**Durum:** Geliştiriliyor 🔄  
+**Teknolojiler:** Python, API, Tkinter  
+**Özellikler:**
+- Gerçek zamanlı hava durumu
+- 7 günlük tahmin
+- Şehir arama
+- Görsel grafikler
+
+</td>
+<td align="center" width="33%">
+
+### 📝 To-Do List Web App
+**Durum:** Planlanıyor ⏳  
+**Teknolojiler:** HTML, CSS, JavaScript  
+**Özellikler:**
+- Görev ekleme/silme
+- Tamamlanma takibi
+- Öncelik seviyeleri
+- Local storage
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 Discord Bot
+**Durum:** Planlanıyor ⏳  
+**Teknolojiler:** Python, Discord.py  
+**Özellikler:**
+- Moderasyon komutları
+- Müzik çalma
+- Mini oyunlar
+- AI entegrasyonu
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -614,18 +867,20 @@ Her başarısız deneme, başarıya bir adım daha yaklaşmaktır!
 
 <br/>
 
-### 📈 İstatistikler
+### 📈 Profil İstatistikleri
 
 ![Followers](https://img.shields.io/github/followers/Lukosadev1?style=for-the-badge&color=blue&labelColor=1a1b27)
 ![Stars](https://img.shields.io/github/stars/Lukosadev1?style=for-the-badge&color=yellow&labelColor=1a1b27)
-![Repos](https://img.shields.io/badge/Repositories-Coming%20Soon-orange?style=for-the-badge&labelColor=1a1b27)
+![Repos](https://img.shields.io/badge/Repositories-Hazırlanıyor-orange?style=for-the-badge&labelColor=1a1b27)
+![Commits](https://img.shields.io/badge/Commits-Her_Gün-green?style=for-the-badge&labelColor=1a1b27)
 
 <br/>
 
 ### 🎯 Son Güncelleme: Ocak 2025
 
 **⭐ Bu profili beğendiysen yıldız vermeyi unutma!**  
-**🔔 Takip et ve yolculuğumu izle!**
+**🔔 Takip et ve yolculuğumu izle!**  
+**💬 Geri bildirimlerine açığım!**
 
 <br/>
 
@@ -633,6 +888,12 @@ Her başarısız deneme, başarıya bir adım daha yaklaşmaktır!
 
 <sub>💖 Sevgiyle kodlanmıştır | 🚀 Yapımda: Ömer Hüseynov | ⚡ Sürekli Gelişiyor</sub>
 
+<br/>
+
+### 🎊 Teşekkürler!
+
+*Bu profili ziyaret ettiğin için teşekkür ederim! Eğer benimle aynı yolculuktaysan, birlikte öğrenelim ve büyüyelim! 💪*
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Teşekkürler!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Görüşmek%20Üzere!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=70" width="100%"/>
