@@ -17,8 +17,7 @@
 [![Discord](https://img.shields.io/badge/Discord'da_Sohbet-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=4752C4)](https://discord.com)
 
 <img src="https://komarev.com/ghpvc/?username=Lukosadev1&label=Profil%20Görüntüleme&color=blueviolet&style=for-the-badge" alt="profil" />
-<img src="https://img.shields.io/github/followers/Lukosadev1?label=Takipçi&style=for-the-badge&color=blue&labelColor=1a1b27" alt="takipçi" />
-<img src="https://img.shields.io/github/stars/Lukosadev1?label=Yıldız&style=for-the-badge&color=yellow&labelColor=1a1b27" alt="yıldız" />
+
 
 </div>
 
@@ -115,7 +114,7 @@ Problem Çöz.  ███░░░░░░░   30%
 %%{init: {'theme':'dark'}}%%
 graph TB
     A[🎯 BAŞLANGIÇ<br/>Python Temelleri] --> B[🎮 Seviye 1<br/>Basit Projeler]
-    B --> C[🤖 Seviye 2<br/>ChatGPT API]
+    B --> C[🤖 Seviye 2<br/>API YARATMAK]
     C --> D[🧠 Seviye 3<br/>Machine Learning]
     D --> E[🏆 HEDEF<br/>AI Developer]
     
