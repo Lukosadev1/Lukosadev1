@@ -444,7 +444,7 @@ else:
 
 | 📹 Video | 📝 İçerik | ✅ Durum |
 |:---:|:---|:---:|
-| 🚀 Başlangıç | Nasıl başladım, ilk günlerim | Hazırlanıyor |
+| 🚀 Başlangıç | Nasıl başladım, ilk günlerim | Hazırlandı |
 | 📚 Öğrenme Serisi | Python öğrenme yolculuğum | Planlanıyor |
 | 🐛 Hatalarım | Yaptığım hatalar ve nasıl düzelttim | Planlanıyor |
 | 💻 Kod Along | Benimle birlikte öğren | Planlanıyor |
