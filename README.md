@@ -255,39 +255,14 @@ graph TB
 
 <div align="center">
 
-# 💫 About Me
-Hi, I'm **Lukosadev1**! A passionate developer building cool projects.
 
----
 
+## 📊 GitHub İstatistiklerim
 <div align="center">
-
-# 🚀 Lukosadev1 | Developer Profile
-
----
-
-### 📈 GitHub Stats & Connectivity
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lukosadev1&show_icons=true&theme=radical&hide_border=true&count_private=true&cache=0" alt="Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=Lukosadev1&theme=radical&hide_border=true&cache=0" alt="Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lukosadev1&layout=compact&theme=radical&hide_border=true&langs_count=8&cache=0" width="100%" alt="Langs" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🗓️ Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lukosadev1&theme=react-dark&bg_color=0D1117&hide_border=true&cache=0)
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lukosadev1&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Lukosadev1&theme=radical&hide_border=true" />
+  <br/><br/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukosadev1&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 ## 🎯 2025 Gerçekçi Hedeflerim
 
@@ -492,6 +467,7 @@ else:
 - 💡 ChatGPT gibi bir şey yapmak çok cool
 - 🎯 Büyük bir hedef ama beni motive ediyor
 - 🚀 İmkansız görünüyor ama denemeliyim!
+- bide para kazandırıyor :D
 
 </td>
 <td>
