@@ -258,12 +258,12 @@ graph TB
 
 
 ## 📊 GitHub İstatistiklerim
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lukosadev1&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Lukosadev1&theme=radical&hide_border=true" />
-  <br/><br/>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukosadev1&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BURAYA_KULLANICI_ADINIZ&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BURAYA_KULLANICI_ADINIZ&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BURAYA_KULLANICI_ADINIZ&layout=compact&theme=radical)
 ## 🎯 2025 Gerçekçi Hedeflerim
 
 <div align="center">
