@@ -257,7 +257,8 @@ graph TB
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lukosadev1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FFD700&text_color=FFFFFF&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lukosadev1&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FFD700&text_color=FFFFFF&border_radius=10&count_private=true" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lukosadev1&theme=radical&hide_border=true&background=0D1117&stroke=FF6EC7&ring=FFD700&fire=FF6EC7&currStreakLabel=FFFFFF&border_radius=10" />
 
 <br/><br/>
@@ -265,13 +266,6 @@ graph TB
 <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukosadev1&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&border_radius=10&langs_count=8" />
 
 </div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
 ## 🎯 2025 Gerçekçi Hedeflerim
 
 <div align="center">
