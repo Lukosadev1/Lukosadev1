@@ -260,38 +260,33 @@ Hi, I'm **Lukosadev1**! A passionate developer building cool projects.
 
 ---
 
-### 📊 GitHub Ecosystem
+<div align="center">
 
-<table border="0">
+# 🚀 Lukosadev1 | Developer Profile
+
+---
+
+### 📈 GitHub Stats & Connectivity
+<table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lukosadev1&show_icons=true&theme=radical&hide_border=true&count_private=true" width="100%" />
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lukosadev1&show_icons=true&theme=radical&hide_border=true&count_private=true&cache=0" alt="Stats" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=Lukosadev1&theme=radical&hide_border=true" width="100%" />
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=Lukosadev1&theme=radical&hide_border=true&cache=0" alt="Streak" />
     </td>
   </tr>
-</table>
-
-<br/>
-
-### 🛠 Languages & Tools
-
-<table border="0">
   <tr>
-    <td width="60%" align="center">
-       <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lukosadev1&layout=compact&theme=radical&hide_border=true&langs_count=8" width="100%" />
-    </td>
-    <td width="40%" align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=Lukosadev1&theme=radical&no-bg=true&column=2&margin-w=15" width="100%" />
+    <td align="center" colspan="2">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lukosadev1&layout=compact&theme=radical&hide_border=true&langs_count=8&cache=0" width="100%" alt="Langs" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📈 Activity Graph
-![Lukosadev1's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lukosadev1&theme=react-dark&bg_color=0D1117&hide_border=true)
+### 🗓️ Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lukosadev1&theme=react-dark&bg_color=0D1117&hide_border=true&cache=0)
 
 </div>
 ## 🎯 2025 Gerçekçi Hedeflerim
