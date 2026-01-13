@@ -258,12 +258,7 @@ graph TB
 
 
 ## 📊 GitHub İstatistiklerim
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BURAYA_KULLANICI_ADINIZ&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BURAYA_KULLANICI_ADINIZ&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BURAYA_KULLANICI_ADINIZ&layout=compact&theme=radical)
+YAKINDA
 ## 🎯 2025 Gerçekçi Hedeflerim
 
 <div align="center">
