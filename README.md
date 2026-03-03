@@ -177,7 +177,7 @@ else:
 
 ---
 
-## ✅ 2025 Hedeflerim
+## ✅ 2026 Hedeflerim
 
 ### Öğrenme
 - [x] Python'a başladım
