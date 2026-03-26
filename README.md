@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Ömer%20Hüseynov&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=13%20yaşında%20•%20Bakü%2C%20Azerbaycan%20🇦🇿&descSize=22&descAlignY=62&descColor=ccddff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ömer%20Hüseynov&fontSize=75&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=14%20yaşında%20•%20Bakü%2C%20Azerbaycan%20🇦🇿%20•%20Siber%20Güvenlik%20Yolculuğu&descSize=20&descAlignY=62&descColor=00cc33" width="100%"/>
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=🚀+Python+öğreniyorum;🤖+Yapay+Zeka+yaratmak+istiyorum;📱+Mobil+app+geliştirmeyi+hedefliyorum;🔗+Kendi+API'mi+yapmak+istiyorum;💡+Her+gün+yeni+bir+şey+keşfediyorum!" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%5BSYSTEM%5D+Baglanti+Kuruldu...;%5BSTATUS%5D+Python+ogreniyorum+%F0%9F%90%8D;%5BTARGET%5D+Siber+Guvenlik+Uzmani+olmak+istiyorum;%5BMISSION%5D+Kendi+araclarimi+yazmak;%5BLOG%5D+Her+gun+yeni+bir+sifre+cozuyorum+%F0%9F%94%93" />
 
 <br/>
 
@@ -17,33 +17,39 @@
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lukosadev1)
 
-<img src="https://komarev.com/ghpvc/?username=Lukosadev1&label=Profil+Ziyareti&color=58A6FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Lukosadev1&label=Profil+Ziyareti&color=00FF41&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 👋 Merhaba, Ben Ömer!
+## 🔐 Merhaba, Ben Ömer!
 
 ```python
 class OmerHuseynov:
     ad       = "Ömer Hüseynov"
-    yas      = 13
+    yas      = 14
     sehir    = "Bakü, Azerbaycan 🇦🇿"
-    seviye   = "Yeni Başlayan — ama çok hevesli! 🔥"
+    seviye   = "Junior Hacker — ama çok hevesli! 🔥"
+    mod      = "ÖĞRENME MODU AKTİF ✅"
 
-    su_an_ogreniyor = ["Python temelleri", "Değişkenler", "if-else", "Döngüler"]
+    su_an_ogreniyor = [
+        "Python temelleri 🐍",
+        "Linux komutları 🐧",
+        "Ağ temelleri (TCP/IP) 🌐",
+        "CTF (Capture The Flag) 🚩"
+    ]
 
     hedefler = [
-        "🤖 Kendi yapay zekamı yaratmak",
-        "🔗 Kendi API'mi yazmak ve yayımlamak",
-        "📱 Mobil uygulama geliştirmek",
-        "🌐 Web uygulamaları yapmak",
-        "🧠 Machine Learning öğrenmek"
+        "🔐 Siber Güvenlik Uzmanı olmak",
+        "🕵️ Ethical Hacking öğrenmek",
+        "🛡️ Kendi güvenlik araçlarımı yazmak",
+        "🚩 CTF yarışmalarına katılmak",
+        "🧠 Penetration Testing yapmak"
     ]
 
     def motivasyon(self):
-        return "Bilgim az ama motivasyonum %1000! 💪"
+        return "Bilgim az ama merakım sonsuz! 💪"
 ```
 
 ---
@@ -53,27 +59,28 @@ class OmerHuseynov:
 | Teknoloji | Seviye | İlerleme |
 |-----------|--------|----------|
 | Python | Yeni Başladım | `██░░░░░░░░` 15% |
-| HTML / CSS | Temel Şeyler | `██░░░░░░░░` 20% |
-| JavaScript | Çok Az | `█░░░░░░░░░` 5% |
-| Git / GitHub | Öğreniyorum | `█░░░░░░░░░` 10% |
-| AI / ML | Henüz Başlamadım | `░░░░░░░░░░` 0% — yakında! |
+| Linux / Terminal | Temel Komutlar | `██░░░░░░░░` 20% |
+| Ağ Temelleri | Öğreniyorum | `█░░░░░░░░░` 10% |
+| HTML / CSS | Biraz Biliyorum | `██░░░░░░░░` 20% |
+| Kriptografi | Henüz Başlamadım | `░░░░░░░░░░` 0% — yakında! |
+| CTF / Ethical Hacking | Henüz Başlamadım | `░░░░░░░░░░` 0% — hedefimde! |
 
 ---
 
-## 🗺️ Öğrenme Yolculuğum
+## 🗺️ Siber Güvenlik Yolculuğum
 
 ```mermaid
-%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#1f6feb','edgeLabelBackground':'#0d1117'}}}%%
+%%{init: {'theme':'dark', 'themeVariables': {'primaryColor':'#00ff41','edgeLabelBackground':'#0d1117','lineColor':'#00ff41'}}}%%
 flowchart LR
-    A["🌱 ŞU AN\nPython Temelleri"] --> B["📦 Sonraki\nFonksiyonlar & Listeler"]
-    B --> C["🛠️ Küçük Projeler\nHesap Makinesi, Oyunlar"]
-    C --> D["🔗 API Geliştirme\nFlask / FastAPI"]
-    D --> E["📱 App Geliştirme\nMobil & Web"]
-    E --> F["🧠 AI & ML\nMachine Learning"]
-    F --> G["🏆 BÜYÜK HAYAL\nKendi AI'ımı Yaratmak!"]
+    A["🌱 ŞU AN\nPython + Linux Temelleri"] --> B["🌐 Sonraki\nAğ & TCP/IP Temelleri"]
+    B --> C["🔍 Keşif\nNmap, Wireshark Araçları"]
+    C --> D["🚩 CTF\nCapture The Flag Yarışmaları"]
+    D --> E["🕵️ Ethical Hacking\nPenetration Testing"]
+    E --> F["🛡️ Güvenlik Araçları\nKendi Scriptlerimi Yazmak"]
+    F --> G["🏆 BÜYÜK HAYAL\nSiber Güvenlik Uzmanı! 🔐"]
 
-    style A fill:#238636,color:#fff,stroke:#3fb950
-    style G fill:#1f6feb,color:#fff,stroke:#58a6ff
+    style A fill:#238636,color:#fff,stroke:#00ff41
+    style G fill:#0d4f3c,color:#00ff41,stroke:#00ff41
 ```
 
 ---
@@ -83,28 +90,29 @@ flowchart LR
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Replit](https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-## 🎯 Öğrenmek İstediğim Programlama Dilleri
+## 🎯 Öğrenmek İstediğim Siber Güvenlik Araçları
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 </div>
 
 ---
 
-## 💻 İlk Kodlarım
+## 💻 İlk Güvenlik Kodlarım
 
 <details>
 <summary><b>🌍 Hello World — İlk Kodum! (Ocak 2025)</b></summary>
@@ -112,26 +120,40 @@ flowchart LR
 ```python
 # Hayatımda yazdığım ilk kod! 🚀
 print("Merhaba Dünya!")
-print("Ben Ömer, 13 yaşındayım.")
-print("Kodlamayı öğrenmeye başladım!")
+print("Ben Ömer, 14 yaşındayım.")
+print("Siber güvenlik uzmanı olmak istiyorum!")
 ```
 > Çalıştığında inanamadım! En mutlu anlarımdan biri oldu. 🎉
 
 </details>
 
 <details>
-<summary><b>➕ İlk Değişken ve Toplama Programım</b></summary>
+<summary><b>🔐 Basit Şifre Gücü Kontrol Programım</b></summary>
 
 ```python
-sayi1 = 5
-sayi2 = 3
-toplam = sayi1 + sayi2
+sifre = input("Şifreni gir: ")
+guc = 0
 
-print("İlk sayı:", sayi1)
-print("İkinci sayı:", sayi2)
-print("Toplam:", toplam)
+if len(sifre) >= 8:
+    guc += 1
+    print("✅ Yeterli uzunluk")
+else:
+    print("❌ Çok kısa!")
+
+if any(c.isupper() for c in sifre):
+    guc += 1
+    print("✅ Büyük harf var")
+
+if any(c.isdigit() for c in sifre):
+    guc += 1
+    print("✅ Sayı var")
+
+if guc == 3:
+    print("🔐 Güçlü şifre!")
+else:
+    print("⚠️ Şifreni güçlendir!")
 ```
-> Değişkenlerin nasıl çalıştığını anladığım an! 💡
+> Güvenlik araçlarına olan ilk adımım! 🔒
 
 </details>
 
@@ -139,39 +161,41 @@ print("Toplam:", toplam)
 <summary><b>🎯 İlk if-else Kodum</b></summary>
 
 ```python
-yas = 13
+yas = 14
 
 if yas < 18:
-    print("Henüz çocuğum — ama çok şey öğreneceğim!")
+    print("Henüz gencim — ama en iyi hackerlar genç yaşta başladı!")
 else:
     print("Yetişkinim.")
 
-print("Yaşım:", yas)
+print("Hedef: Ethical Hacker olmak! 🕵️")
 ```
-> if-else'i anlamak biraz zaman aldı, ama bunu anlayınca çok mutlu oldum!
+> if-else'i anlamak biraz zaman aldı ama şimdi çok işime yarıyor!
 
 </details>
 
 <details>
-<summary><b>🔢 Basit Hesap Makinesi (Üzerinde Çalışıyorum)</b></summary>
+<summary><b>🔢 Basit Şifreleme Deneyi (XOR) — Üzerinde Çalışıyorum</b></summary>
 
 ```python
-print("=== Basit Hesap Makinesi ===")
-print("1. Toplama")
-print("2. Çıkarma")
+# Basit XOR şifreleme — kriptografiye ilk adım!
+mesaj = "OMER"
+anahtar = 42
 
-secim = input("Seçiminiz (1/2): ")
-sayi1 = float(input("1. Sayı: "))
-sayi2 = float(input("2. Sayı: "))
+sifreli = ""
+for harf in mesaj:
+    sifreli += chr(ord(harf) ^ anahtar)
 
-if secim == "1":
-    print("Sonuç:", sayi1 + sayi2)
-elif secim == "2":
-    print("Sonuç:", sayi1 - sayi2)
-else:
-    print("Geçersiz seçim!")
+print("Şifreli mesaj:", sifreli)
+
+# Çözme
+cozulmus = ""
+for harf in sifreli:
+    cozulmus += chr(ord(harf) ^ anahtar)
+
+print("Çözülmüş mesaj:", cozulmus)
 ```
-> Hâlâ geliştiriyorum — bazen hata veriyor, ama öğreniyorum! 💪
+> Kriptografi çok ilginç — daha çok öğreneceğim! 🔓
 
 </details>
 
@@ -179,30 +203,45 @@ else:
 
 ## ✅ 2026 Hedeflerim
 
-### Öğrenme
+### Temel Beceriler
 - [x] Python'a başladım
 - [x] print, değişkenler, if-else öğrendim
-- [ ] Döngüler (for, while)
-- [ ] Fonksiyonlar ve listeler
-- [ ] Python temellerini bitir
+- [ ] Döngüler ve fonksiyonlar
+- [ ] Linux terminal komutları
+- [ ] Ağ temelleri (IP, TCP/UDP, DNS)
+
+### Siber Güvenlik
+- [ ] TryHackMe'ye kayıt ol
+- [ ] İlk CTF yarışmasına katıl 🚩
+- [ ] Nmap ile ağ tarama öğren
+- [ ] Wireshark ile paket analizi yap
+- [ ] Kali Linux kur ve kullan
 
 ### Projeler
 - [x] Hello World yazdım
-- [ ] Hesap makinesi tamamla
-- [ ] Sayı tahmin oyunu yap
-- [ ] İlk GitHub projesini paylaş
+- [ ] Şifre gücü kontrol aracı tamamla
+- [ ] Port tarayıcı yaz (Python ile)
+- [ ] İlk GitHub güvenlik projesini paylaş
 
-### API & Uygulama
-- [ ] Flask veya FastAPI öğren
-- [ ] Basit bir API yaz
-- [ ] Kendi API'mi yayınla
-- [ ] Web / Mobil app yap
+### Yapay Zeka & Güvenlik
+- [ ] AI destekli güvenlik araçlarını araştır
+- [ ] Machine Learning ile anomali tespiti öğren
+- [ ] **Kendi siber güvenlik aracımı yaz! 🛡️**
 
-### Yapay Zeka
-- [ ] AI temellerini öğren
-- [ ] Machine Learning'e başla
-- [ ] İlk AI projesini yap
-- [ ] **Kendi AI'ımı yarat! 🤖**
+---
+
+## 🏆 Hedeflediğim Sertifikalar (İleride!)
+
+<div align="center">
+
+| Sertifika | Kurum | Durum |
+|-----------|-------|-------|
+| CompTIA Security+ | CompTIA | 🎯 Hedefte |
+| CEH (Ethical Hacker) | EC-Council | 🎯 Hedefte |
+| eJPT | eLearnSecurity | 🎯 Başlangıç |
+| OSCP | Offensive Security | 🌟 Büyük Hayal |
+
+</div>
 
 ---
 
@@ -214,13 +253,13 @@ else:
 
 | Video | İçerik | Durum |
 |-------|--------|-------|
-| 🚀 Başlangıç | Kodlamaya nasıl başladım | Hazır |
-| 📚 Python Serisi | Öğrenme yolculuğum | Planlanıyor |
-| 🐛 Hatalarım | Hatalar ve çözümler | Planlanıyor |
-| 💻 Kod Along | Benimle birlikte öğren | Planlanıyor |
-| 🤖 AI Serisi | Yapay zekaya giden yolum | İleride |
+| 🚀 Başlangıç | Siber güvenliğe nasıl başladım | Hazır |
+| 🐧 Linux Serisi | Terminal komutları öğreniyorum | Planlanıyor |
+| 🚩 CTF Çözümleri | Birlikte çözelim | Planlanıyor |
+| 🐍 Python Güvenlik | Güvenlik araçları yazıyorum | Planlanıyor |
+| 🕵️ Hacking Serisi | Ethical hacking yolculuğum | İleride |
 
-> *"Her hatam bir video konusu olabilir!"* 😄
+> *"Her CTF çözümü bir video konusu olabilir!"* 😄
 
 </div>
 
@@ -230,8 +269,9 @@ else:
 
 <div align="center">
 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
-[![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white)](https://w3schools.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://hackthebox.com)
 [![Python.org](https://img.shields.io/badge/Python.org-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
 
@@ -244,19 +284,19 @@ else:
 ## 💬 Son Sözler
 
 **Evet, henüz çok şey bilmiyorum.**
-**Ama her gün biraz daha ilerliyorum.**
-**Ve bir gün kendi yapay zekamı yaratacağım. 🤖**
+**Ama her gün sistemleri biraz daha anlıyorum.**
+**Ve bir gün dünyanın en iyi ethical hackerlarından biri olacağım. 🔐**
 
 <br/>
 
-*Sen de yeni başlıyorsan — birlikte öğrenelim!*
-*Herkes bir yerden başladı. Ben de şimdi başlıyorum. 💪*
+*Sen de siber güvenliğe merak duyuyorsan — birlikte öğrenelim!*
+*En iyi hackerlar da bir zamanlar "Hello World" yazdı. 💪*
 
 <br/>
 
-![Followers](https://img.shields.io/github/followers/Lukosadev1?style=for-the-badge&color=58A6FF&labelColor=0d1117&label=Takipçiler)
-![Stars](https://img.shields.io/github/stars/Lukosadev1?style=for-the-badge&color=FFD700&labelColor=0d1117&label=Yıldızlar)
+![Followers](https://img.shields.io/github/followers/Lukosadev1?style=for-the-badge&color=00FF41&labelColor=0d1117&label=Takipçiler)
+![Stars](https://img.shields.io/github/stars/Lukosadev1?style=for-the-badge&color=00FF41&labelColor=0d1117&label=Yıldızlar)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=Hadi+Birlikte+Öğrenelim!&fontSize=38&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Hack+The+Planet!+🌐&fontSize=38&fontColor=00ff41&animation=fadeIn&fontAlignY=65" width="100%"/>
