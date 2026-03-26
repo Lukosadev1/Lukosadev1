@@ -253,13 +253,11 @@ print("Çözülmüş mesaj:", cozulmus)
 
 | Video | İçerik | Durum |
 |-------|--------|-------|
-| 🚀 Başlangıç | Siber güvenliğe nasıl başladım | Hazır |
-| 🐧 Linux Serisi | Terminal komutları öğreniyorum | Planlanıyor |
-| 🚩 CTF Çözümleri | Birlikte çözelim | Planlanıyor |
-| 🐍 Python Güvenlik | Güvenlik araçları yazıyorum | Planlanıyor |
-| 🕵️ Hacking Serisi | Ethical hacking yolculuğum | İleride |
-
-> *"Her CTF çözümü bir video konusu olabilir!"* 😄
+| 📱 Teknoloji Haberleri | En son teknoloji yenilikleri | Aktif |
+| 🤖 Yapay Zeka | AI gelişmeleri ve incelemeler | Aktif |
+| 🔥 Yeni Çıkanlar | Yeni cihaz ve uygulama tanıtımları | Aktif |
+| 💡 Teknoloji İpuçları | Faydalı teknoloji tüyoları | Planlanıyor |
+| 🌐 Gelecek Teknolojiler | Metaverse, kuantum, uzay tech | Planlanıyor |
 
 </div>
 
