@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben Lukosa 👋</h1>
 
 <p align="center">
-  Minecraft geliştiricisi &bull; <b>ToastCraft</b> sahibi
+  Minecraft geliştiricisi &bull; <b>TostCraft</b> sahibi
 </p>
 
 <p align="center">
@@ -19,7 +19,9 @@
 
 Minecraft için sunucu tarafı yazılım geliştiriyorum. Java ile plugin ve mod geliştirme, veritabanı tabanlı sistemler ve sunucu altyapısı üzerine çalışıyorum.
 
-- 🍞 **ToastCraft**'ın sahibi ve kurucusuyum
+- 🍞 **TostCraft**'ın sahibi ve kurucusuyum
+- ❤️ Minecraft'ı çok seviyorum, bu yüzden her şeye onunla başladım
+- 🔐 Gelecekte siber güvenlik alanında çalışmayı hedefliyorum
 - 🔧 Performans, düzen ve sürdürülebilir kod odaklı çalışırım
 - 📂 Açık kaynak projelerimi hazır oldukça burada paylaşacağım
 
@@ -36,7 +38,7 @@ Minecraft için sunucu tarafı yazılım geliştiriyorum. Java ile plugin ve mod
 
 ---
 
-## 🍞 ToastCraft
+## 🍞 TostCraft
 
 Kurucusu ve sahibi olduğum Minecraft sunucusu. Sunucunun altyapısını ve özel sistemlerini kendim geliştiriyorum.
 
@@ -53,6 +55,12 @@ Projeni yükledikten sonra aşağıdaki satırı açıp REPO_ADI kısmını değ
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lukosa&repo=REPO_ADI&theme=default" />
 </a>
 -->
+
+---
+
+## 🎯 Hedefim
+
+Minecraft ile başlayan geliştirme yolculuğumu **siber güvenlik** alanına taşımak istiyorum. Bu yüzden güvenli kod yazmaya ve sistemlerin nasıl çalıştığını anlamaya önem veriyorum.
 
 ---
 
